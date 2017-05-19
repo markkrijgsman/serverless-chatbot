@@ -1,0 +1,4006 @@
+{
+  "documents": {
+    "document": [
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/inkomstenbelasting/vraag-en-antwoord/hoe-lang-moet-ik-mijn-financiele-administratie-bewaren"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b98b7797-7d40-43a7-bc6d-bf7f96d31dd0"
+        ],
+        "id": [
+          "b98b7797-7d40-43a7-bc6d-bf7f96d31dd0"
+        ],
+        "lastmodified": [
+          "2017-04-20T13:58:32.353Z"
+        ],
+        "question": [
+          "Hoe lang moet ik mijn financiële administratie bewaren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/belastingen-voor-ondernemers/vraag-en-antwoord/wat-is-een-belastingverdrag"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/a59a7ef3-8c7c-4d38-9a6a-142a9fca6eec"
+        ],
+        "id": [
+          "a59a7ef3-8c7c-4d38-9a6a-142a9fca6eec"
+        ],
+        "lastmodified": [
+          "2017-01-03T08:58:32.982Z"
+        ],
+        "question": [
+          "Wat is een belastingverdrag?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/overheidsfinancien/vraag-en-antwoord/wat-is-de-najaarsnota"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/c9877d1a-0e3c-4c46-b35b-b2275a3891a9"
+        ],
+        "id": [
+          "c9877d1a-0e3c-4c46-b35b-b2275a3891a9"
+        ],
+        "lastmodified": [
+          "2017-04-20T14:08:39.042Z"
+        ],
+        "question": [
+          "Wat is de Najaarsnota?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/overheidsfinancien/vraag-en-antwoord/wat-is-de-voorjaarsnota"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/767681a2-833a-4d5c-abee-5109ac53dea4"
+        ],
+        "id": [
+          "767681a2-833a-4d5c-abee-5109ac53dea4"
+        ],
+        "lastmodified": [
+          "2017-01-11T12:51:22.857Z"
+        ],
+        "question": [
+          "Wat is de Voorjaarsnota?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/paspoort-en-identiteitskaart/vraag-en-antwoord/is-mijn-beschadigde-paspoort-of-identiteitskaart-geldig"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/193accef-6ff6-4a05-a89c-b6ff37389745"
+        ],
+        "id": [
+          "193accef-6ff6-4a05-a89c-b6ff37389745"
+        ],
+        "lastmodified": [
+          "2017-04-05T12:45:21.794Z"
+        ],
+        "question": [
+          "Is mijn beschadigde paspoort of identiteitskaart geldig?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/moet-een-bank-een-kopie-van-mijn-paspoort-maken-en-bewaren"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/913baae5-4e13-4270-bab2-d8035a15f032"
+        ],
+        "id": [
+          "913baae5-4e13-4270-bab2-d8035a15f032"
+        ],
+        "lastmodified": [
+          "2017-03-07T14:26:09.766Z"
+        ],
+        "question": [
+          "Moet een bank een kopie van mijn paspoort maken en bewaren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/geldzaken/vraag-en-antwoord/waarom-is-de-euro-ingevoerd"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/1c255df3-9d57-4d26-a4d9-7637b54d47e6"
+        ],
+        "id": [
+          "1c255df3-9d57-4d26-a4d9-7637b54d47e6"
+        ],
+        "lastmodified": [
+          "2017-04-20T14:07:59.297Z"
+        ],
+        "question": [
+          "Waarom is de euro ingevoerd?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/inkomstenbelasting/vraag-en-antwoord/wat-is-de-voorlopige-aanslag-van-de-belastingdienst"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/54ef2e05-af48-405f-9f4d-ba207bf0d856"
+        ],
+        "id": [
+          "54ef2e05-af48-405f-9f4d-ba207bf0d856"
+        ],
+        "lastmodified": [
+          "2016-12-12T15:40:08.795Z"
+        ],
+        "question": [
+          "Wat is de voorlopige aanslag van de Belastingdienst?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/re-integratie/vraag-en-antwoord/kan-ik-als-zieke-of-arbeidsongeschikte-hulp-krijgen-als-ik-een-eigen-bedrijf-begin"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/42eba523-f64f-44b6-bc50-dbaac27e31f8"
+        ],
+        "id": [
+          "42eba523-f64f-44b6-bc50-dbaac27e31f8"
+        ],
+        "lastmodified": [
+          "2016-05-19T08:21:54.332Z"
+        ],
+        "question": [
+          "Kan ik als zieke of arbeidsongeschikte hulp krijgen van het UWV als ik een eigen bedrijf begin?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/re-integratie/vraag-en-antwoord/wat-als-mijn-werkgever-en-ik-het-niet-eens-zijn-over-mijn-ziekte-of-re-integratie"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/e7a40aa7-5b69-42eb-a686-7e89fc086e1d"
+        ],
+        "id": [
+          "e7a40aa7-5b69-42eb-a686-7e89fc086e1d"
+        ],
+        "lastmodified": [
+          "2015-11-06T08:45:14.960Z"
+        ],
+        "question": [
+          "Wat als mijn werkgever en ik het niet eens zijn over mijn ziekte of re-integratie?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/asbest/vraag-en-antwoord/wanneer-moet-ik-materiaal-met-asbest-laten-verwijderen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8d9642fe-d4b2-4c15-959b-a754ef31404e"
+        ],
+        "id": [
+          "8d9642fe-d4b2-4c15-959b-a754ef31404e"
+        ],
+        "lastmodified": [
+          "2017-04-19T15:00:10.934Z"
+        ],
+        "question": [
+          "Wanneer moet ik materiaal met asbest (laten) verwijderen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/energie-thuis/vraag-en-antwoord/wat-is-het-energielabel-voor-huishoudelijke-apparatuur"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8bce475b-9ddc-4c2b-8ff7-c5494c17694e"
+        ],
+        "id": [
+          "8bce475b-9ddc-4c2b-8ff7-c5494c17694e"
+        ],
+        "lastmodified": [
+          "2017-01-27T13:11:08.662Z"
+        ],
+        "question": [
+          "Wat is het energielabel voor huishoudelijke apparatuur?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ontslag/vraag-en-antwoord/wat-is-ontslag-op-staande-voet"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b0c2024a-2ea7-41bb-82b4-5d7657d26092"
+        ],
+        "id": [
+          "b0c2024a-2ea7-41bb-82b4-5d7657d26092"
+        ],
+        "lastmodified": [
+          "2017-05-10T09:37:23.108Z"
+        ],
+        "question": [
+          "Wanneer mag ik op staande voet worden ontslagen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/energie-thuis/vraag-en-antwoord/hoe-kan-ik-het-voordeligst-mijn-huis-isoleren"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/63332a65-30da-4af3-8b6f-73992aabb31f"
+        ],
+        "id": [
+          "63332a65-30da-4af3-8b6f-73992aabb31f"
+        ],
+        "lastmodified": [
+          "2017-05-02T07:44:49.752Z"
+        ],
+        "question": [
+          "Hoe kan ik mijn huis isoleren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/algemene-ouderdomswet-aow/vraag-en-antwoord/wat-verandert-er-op-mijn-werk-als-ik-wil-doorwerken-na-mijn-aow-leeftijd"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/081e7849-4fb0-45cd-8115-05f69b91e7b7"
+        ],
+        "id": [
+          "081e7849-4fb0-45cd-8115-05f69b91e7b7"
+        ],
+        "lastmodified": [
+          "2017-04-06T13:17:35.273Z"
+        ],
+        "question": [
+          "Wat verandert er op mijn werk als ik wil doorwerken na mijn AOW-leeftijd?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/hoe-kan-ik-een-klacht-indienen-over-een-product-of-dienst"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/3159e2fe-4962-4f25-99dc-7556c475cd1c"
+        ],
+        "id": [
+          "3159e2fe-4962-4f25-99dc-7556c475cd1c"
+        ],
+        "lastmodified": [
+          "2017-03-09T08:55:41.042Z"
+        ],
+        "question": [
+          "Hoe kan ik een klacht indienen over een product of dienst?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/hoe-is-het-afstuderen-geregeld-in-het-hoger-onderwijs"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b503e964-b54e-4741-a378-88c2628c993a"
+        ],
+        "id": [
+          "b503e964-b54e-4741-a378-88c2628c993a"
+        ],
+        "lastmodified": [
+          "2016-08-09T11:49:08.664Z"
+        ],
+        "question": [
+          "Hoe is het afstuderen geregeld in het hoger onderwijs?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/wegen/vraag-en-antwoord/waarom-staan-er-hectometerpaaltjes-langs-de-snelwegen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/7368909b-9ec1-4228-9cb3-6a1295c1e3c0"
+        ],
+        "id": [
+          "7368909b-9ec1-4228-9cb3-6a1295c1e3c0"
+        ],
+        "lastmodified": [
+          "2016-08-09T14:11:37.186Z"
+        ],
+        "question": [
+          "Wat heb ik aan hectometerpaaltjes langs de snelwegen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/basisonderwijs/vraag-en-antwoord/wie-bepaalt-of-mijn-kind-blijft-zitten-of-overgaat-naar-de-volgende-klas"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/ea1b0e50-0c6a-4229-801b-afc410f5d974"
+        ],
+        "id": [
+          "ea1b0e50-0c6a-4229-801b-afc410f5d974"
+        ],
+        "lastmodified": [
+          "2017-04-07T08:46:46.819Z"
+        ],
+        "question": [
+          "Wie bepaalt of mijn kind blijft zitten of overgaat naar de volgende groep of klas?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/wat-zijn-mijn-rechten-bij-verkoop-aan-huis-colportage"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8adec2c3-6793-45c3-9f21-9dc0bb0432b9"
+        ],
+        "id": [
+          "8adec2c3-6793-45c3-9f21-9dc0bb0432b9"
+        ],
+        "lastmodified": [
+          "2017-05-08T10:21:17.385Z"
+        ],
+        "question": [
+          "Wat zijn mijn rechten bij verkoop buiten de winkelruimte?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/taxi/vraag-en-antwoord/wanneer-kom-ik-in-aanmerking-voor-het-hoge-kilometerbudget-van-valys"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/4ee556e5-012f-4b91-a14e-6b802a2b20ab"
+        ],
+        "id": [
+          "4ee556e5-012f-4b91-a14e-6b802a2b20ab"
+        ],
+        "lastmodified": [
+          "2017-01-12T10:59:03.496Z"
+        ],
+        "question": [
+          "Wanneer kom ik in aanmerking voor het hoge kilometerbudget van Valys?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/wanneer-kan-ik-een-klacht-indienen-bij-de-geschillencommissie"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8f493cd7-4dfb-4b06-9cfe-b67e9d287a90"
+        ],
+        "id": [
+          "8f493cd7-4dfb-4b06-9cfe-b67e9d287a90"
+        ],
+        "lastmodified": [
+          "2017-03-08T08:05:57.608Z"
+        ],
+        "question": [
+          "Wat is een geschillencommissie?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/energie-thuis/vraag-en-antwoord/hoe-kan-ik-een-klacht-indienen-over-mijn-energieleverancier"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/213d1931-11ba-485d-8846-3ccbf2634a3d"
+        ],
+        "id": [
+          "213d1931-11ba-485d-8846-3ccbf2634a3d"
+        ],
+        "lastmodified": [
+          "2017-03-20T10:13:24.554Z"
+        ],
+        "question": [
+          "Hoe kan ik een klacht indienen over mijn energieleverancier?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/wanneer-heb-ik-recht-op-vermindering-vrijstelling-of-teruggave-van-het-collegegeld"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/c59c9cb9-ee22-47e9-b889-421746a8e6e1"
+        ],
+        "id": [
+          "c59c9cb9-ee22-47e9-b889-421746a8e6e1"
+        ],
+        "lastmodified": [
+          "2016-08-10T07:49:40.012Z"
+        ],
+        "question": [
+          "Wanneer heb ik recht op vermindering, vrijstelling of teruggave van het collegegeld?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/wat-zijn-mijn-rechten-en-plichten-bij-een-koopovereenkomst"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/0f84bd99-6e7a-4f50-bf88-c534b60be9fd"
+        ],
+        "id": [
+          "0f84bd99-6e7a-4f50-bf88-c534b60be9fd"
+        ],
+        "lastmodified": [
+          "2017-03-06T14:32:10.235Z"
+        ],
+        "question": [
+          "Wat zijn mijn rechten en plichten bij een koopovereenkomst?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/wat-moet-ik-doen-bij-een-ongevraagde-toezending-van-een-product"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/e330a4ad-0ff7-4fd0-a482-18433c3380f1"
+        ],
+        "id": [
+          "e330a4ad-0ff7-4fd0-a482-18433c3380f1"
+        ],
+        "lastmodified": [
+          "2015-08-14T10:22:22.257Z"
+        ],
+        "question": [
+          "Wat moet ik doen als een bedrijf ongevraagd een product opstuurt?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/wat-kan-ik-doen-als-het-product-dat-ik-heb-aangeschaft-defect-is"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/137df20e-1aa8-4f11-ab58-7b7017110ba9"
+        ],
+        "id": [
+          "137df20e-1aa8-4f11-ab58-7b7017110ba9"
+        ],
+        "lastmodified": [
+          "2017-03-01T11:37:27.972Z"
+        ],
+        "question": [
+          "Wat zijn mijn rechten bij een product dat kapot is?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/wia/vraag-en-antwoord/wia-bepaling-mate-van-arbeidsongeschiktheid"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/e0b0bd16-72c8-4764-89a3-4a0c926dba60"
+        ],
+        "id": [
+          "e0b0bd16-72c8-4764-89a3-4a0c926dba60"
+        ],
+        "lastmodified": [
+          "2017-03-30T13:43:57.860Z"
+        ],
+        "question": [
+          "Wie bepaalt hoeveel procent arbeidsongeschikt ik ben voor de WIA?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/welke-garanties-heb-ik-op-een-product"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/abd6dbe9-3d5e-4fd3-8711-af77d02114b8"
+        ],
+        "id": [
+          "abd6dbe9-3d5e-4fd3-8711-af77d02114b8"
+        ],
+        "lastmodified": [
+          "2017-03-01T12:07:21.179Z"
+        ],
+        "question": [
+          "Welke garanties heb ik op een product?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/zelfstandigen-zonder-personeel-zzp/vraag-en-antwoord/kan-ik-gebruikmaken-van-het-bbz-als-ik-stop-met-mijn-bedrijf"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/fd25519e-e47e-41d1-9866-6776570b0773"
+        ],
+        "id": [
+          "fd25519e-e47e-41d1-9866-6776570b0773"
+        ],
+        "lastmodified": [
+          "2016-08-05T14:16:53.822Z"
+        ],
+        "question": [
+          "Kan ik gebruikmaken van de bijstand voor zelfstandigen (Bbz) als ik stop met mijn bedrijf?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/financiering-onderwijs/vraag-en-antwoord/wie-is-verantwoordelijk-voor-de-huisvesting-van-scholen-en-aan-welke-eisen-moet-een-schoolgebouw-voldoen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8b593156-a6d0-4a92-9ce5-ea4575282b2b"
+        ],
+        "id": [
+          "8b593156-a6d0-4a92-9ce5-ea4575282b2b"
+        ],
+        "lastmodified": [
+          "2016-12-30T15:13:21.561Z"
+        ],
+        "question": [
+          "Wie is verantwoordelijk voor de huisvesting van scholen en aan welke eisen moet een schoolgebouw voldoen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/voortgezet-onderwijs/vraag-en-antwoord/wie-is-verantwoordelijk-voor-het-schoonmaken-van-de-school-voor-voortgezet-onderwijs"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b034bc5e-cb1a-465f-9565-570660e2123d"
+        ],
+        "id": [
+          "b034bc5e-cb1a-465f-9565-570660e2123d"
+        ],
+        "lastmodified": [
+          "2017-04-07T15:24:35.708Z"
+        ],
+        "question": [
+          "Wie is verantwoordelijk voor het schoonmaken van de school voor voortgezet onderwijs?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/patientenrecht-en-clientenrecht/vraag-en-antwoord/waar-moet-ik-zijn-met-een-klacht-over-een-onvrijwillige-opname-bopz"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/4fef43aa-bf19-484f-be8e-33d38980e9aa"
+        ],
+        "id": [
+          "4fef43aa-bf19-484f-be8e-33d38980e9aa"
+        ],
+        "lastmodified": [
+          "2017-03-21T14:55:08.940Z"
+        ],
+        "question": [
+          "Waar moet ik zijn met een klacht over een onvrijwillige opname (bopz)?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/algemene-nabestaandenwet-anw/vraag-en-antwoord/wanneer-heb-ik-recht-op-een-wezenuitkering"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8d483868-0730-49db-97e4-5604cb4029b8"
+        ],
+        "id": [
+          "8d483868-0730-49db-97e4-5604cb4029b8"
+        ],
+        "lastmodified": [
+          "2015-08-20T14:06:52.356Z"
+        ],
+        "question": [
+          "Wanneer hebben kinderen recht op een wezenuitkering?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/identificatieplicht/vraag-en-antwoord/moet-ik-me-identificeren-als-ik-een-nieuwe-baan-heb"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/c6aa498f-a1cd-4884-bc3c-f3ba4bfb03cc"
+        ],
+        "id": [
+          "c6aa498f-a1cd-4884-bc3c-f3ba4bfb03cc"
+        ],
+        "lastmodified": [
+          "2017-04-26T10:08:10.488Z"
+        ],
+        "question": [
+          "Moet ik me identificeren als ik een nieuwe baan heb?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/gevaarlijke-stoffen/vraag-en-antwoord/hoe-weet-ik-of-een-stof-gevaarlijk-is"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/d98a6120-9e5c-49b0-8676-95c71c46599c"
+        ],
+        "id": [
+          "d98a6120-9e5c-49b0-8676-95c71c46599c"
+        ],
+        "lastmodified": [
+          "2016-08-09T12:19:15.978Z"
+        ],
+        "question": [
+          "Kan ik in aanraking komen met gevaarlijke stoffen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/kan-ik-van-woning-ruilen-en-welke-regels-gelden-er-bij-woningruil"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/0d8d1b47-93aa-481a-9435-edb399ed02b1"
+        ],
+        "id": [
+          "0d8d1b47-93aa-481a-9435-edb399ed02b1"
+        ],
+        "lastmodified": [
+          "2017-04-25T14:42:32.625Z"
+        ],
+        "question": [
+          "Woningruil: aan welke regels moet ik mij houden?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/zijn-feestdagen-van-invloed-op-een-termijn-waarbinnen-ik-moet-reageren-of-betalen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/593b79da-3fa1-45db-b422-6d6a9022dbd9"
+        ],
+        "id": [
+          "593b79da-3fa1-45db-b422-6d6a9022dbd9"
+        ],
+        "lastmodified": [
+          "2017-03-07T14:15:49.550Z"
+        ],
+        "question": [
+          "Zijn feestdagen van invloed op een betalingstermijn of reactietermijn?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/welke-regels-gelden-bij-de-huur-van-een-garage"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/bda490bc-f0d5-4b10-9d53-3bc7187feb0d"
+        ],
+        "id": [
+          "bda490bc-f0d5-4b10-9d53-3bc7187feb0d"
+        ],
+        "lastmodified": [
+          "2017-04-25T11:12:55.405Z"
+        ],
+        "question": [
+          "Welke regels gelden bij de huur van een garage?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/bezwaar-tegen-servicekosten-of-kosten-nutsvoorzieningen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/38208621-2e34-427a-b3d3-8eb33d4f4dc9"
+        ],
+        "id": [
+          "38208621-2e34-427a-b3d3-8eb33d4f4dc9"
+        ],
+        "lastmodified": [
+          "2017-04-19T14:46:49.610Z"
+        ],
+        "question": [
+          "Hoe maak ik bezwaar tegen de servicekosten en de kosten voor nutsvoorzieningen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/vraag-en-antwoord/is-het-gebruik-van-mijnoverheid-veilig"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/968c7b6e-6f5d-4a0a-97a2-795f19085686"
+        ],
+        "id": [
+          "968c7b6e-6f5d-4a0a-97a2-795f19085686"
+        ],
+        "lastmodified": [
+          "2017-02-21T15:33:52.397Z"
+        ],
+        "question": [
+          "Is het gebruik van MijnOverheid veilig?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/is-het-kraken-van-een-woning-strafbaar"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/af8455af-5c37-42de-aada-24ca7209dd6b"
+        ],
+        "id": [
+          "af8455af-5c37-42de-aada-24ca7209dd6b"
+        ],
+        "lastmodified": [
+          "2017-04-26T09:53:46.286Z"
+        ],
+        "question": [
+          "Is het kraken van een woning strafbaar?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/vraag-en-antwoord/wat-is-digid"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/48bbc032-b5e9-4c08-a38f-4d54b2c2112c"
+        ],
+        "id": [
+          "48bbc032-b5e9-4c08-a38f-4d54b2c2112c"
+        ],
+        "lastmodified": [
+          "2017-02-21T15:35:33.707Z"
+        ],
+        "question": [
+          "Wat is DigiD?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/vraag-en-antwoord/hoe-vraag-ik-digid-aan"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/6bbedb07-229a-4a4e-b2d8-11d7f7f13d64"
+        ],
+        "id": [
+          "6bbedb07-229a-4a4e-b2d8-11d7f7f13d64"
+        ],
+        "lastmodified": [
+          "2017-02-21T15:25:44.225Z"
+        ],
+        "question": [
+          "Hoe vraag ik DigiD aan?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/wegen/vraag-en-antwoord/mag-ik-een-gedenkteken-voor-een-verkeersslachtoffer-langs-de-weg-plaatsen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/77a62690-0915-4619-abc5-91c7d7758802"
+        ],
+        "id": [
+          "77a62690-0915-4619-abc5-91c7d7758802"
+        ],
+        "lastmodified": [
+          "2016-12-12T14:48:34.891Z"
+        ],
+        "question": [
+          "Mag ik een gedenkteken voor een verkeersslachtoffer langs de weg plaatsen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/vraag-en-antwoord/wat-is-mijnoverheid"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/110cffbf-d7dc-4a4f-b1b0-0be77e7bf20c"
+        ],
+        "id": [
+          "110cffbf-d7dc-4a4f-b1b0-0be77e7bf20c"
+        ],
+        "lastmodified": [
+          "2017-02-21T15:36:27.468Z"
+        ],
+        "question": [
+          "Wat is MijnOverheid?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/persoonsgegevens/vraag-en-antwoord/waar-vraag-ik-geheimhouding-van-mijn-persoonsgegevens-aan"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/23f748cf-4408-4b2a-ba0f-5af16e257d53"
+        ],
+        "id": [
+          "23f748cf-4408-4b2a-ba0f-5af16e257d53"
+        ],
+        "lastmodified": [
+          "2017-04-20T12:17:17.487Z"
+        ],
+        "question": [
+          "Waar vraag ik het niet doorgeven van persoonsgegevens uit de BRP (geheimhouding) aan?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/arbeidsomstandigheden/vraag-en-antwoord/wat-kan-de-inspectie-szw-doen-als-op-het-werk-de-regels-worden-overtreden"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/18e3e41d-1611-4a2e-8c57-14f03673c561"
+        ],
+        "id": [
+          "18e3e41d-1611-4a2e-8c57-14f03673c561"
+        ],
+        "lastmodified": [
+          "2017-04-12T09:51:32.535Z"
+        ],
+        "question": [
+          "Wat kan de Inspectie SZW (voorheen Arbeidsinspectie) doen als op het werk de regels worden overtreden?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ww-uitkering/vraag-en-antwoord/heb-ik-recht-op-vakantie-met-een-ww-uitkering"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/83f95882-88c0-411a-8139-e4a2d3025d36"
+        ],
+        "id": [
+          "83f95882-88c0-411a-8139-e4a2d3025d36"
+        ],
+        "lastmodified": [
+          "2017-05-04T09:56:28.999Z"
+        ],
+        "question": [
+          "Heb ik recht op vakantie met een WW-uitkering?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ww-uitkering/vraag-en-antwoord/hoe-lang-heb-ik-recht-op-een-ww-uitkering"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/3b9bb08e-f2a2-47ab-813a-dd28440edc01"
+        ],
+        "id": [
+          "3b9bb08e-f2a2-47ab-813a-dd28440edc01"
+        ],
+        "lastmodified": [
+          "2017-05-04T09:17:31.402Z"
+        ],
+        "question": [
+          "Hoelang heb ik recht op een WW-uitkering?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/asbest/vraag-en-antwoord/wat-moet-mijn-werkgever-doen-tegen-asbest"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/5b458ebd-7738-46b2-b1ba-35cfe58e2c23"
+        ],
+        "id": [
+          "5b458ebd-7738-46b2-b1ba-35cfe58e2c23"
+        ],
+        "lastmodified": [
+          "2017-04-19T15:02:14.614Z"
+        ],
+        "question": [
+          "Wat moet mijn werkgever doen tegen asbest?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/arbeidsomstandigheden/vraag-en-antwoord/mag-ik-borstvoeding-geven-onder-werktijd"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/fdbdc95f-946d-4ca7-9ecc-4180c95270e5"
+        ],
+        "id": [
+          "fdbdc95f-946d-4ca7-9ecc-4180c95270e5"
+        ],
+        "lastmodified": [
+          "2017-04-17T23:47:40.198Z"
+        ],
+        "question": [
+          "Mag ik borstvoeding geven onder werktijd?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/paspoort-en-identiteitskaart/vraag-en-antwoord/wanneer-heb-ik-een-bewijs-van-nederlanderschap-nodig-en-waar-vraag-ik-het-aan"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/77a4ce1e-fb2c-4269-90d7-649c25b1fa66"
+        ],
+        "id": [
+          "77a4ce1e-fb2c-4269-90d7-649c25b1fa66"
+        ],
+        "lastmodified": [
+          "2017-04-05T09:09:45.646Z"
+        ],
+        "question": [
+          "Wanneer heb ik een bewijs van Nederlanderschap nodig en waar vraag ik het aan?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ziektewetuitkering/vraag-en-antwoord/wanneer-kom-ik-in-aanmerking-voor-de-ziektewet"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/45fe78f6-41ef-4e22-b508-2065040ee91b"
+        ],
+        "id": [
+          "45fe78f6-41ef-4e22-b508-2065040ee91b"
+        ],
+        "lastmodified": [
+          "2016-11-22T11:18:52.118Z"
+        ],
+        "question": [
+          "Wanneer heb ik recht op een ziektewetuitkering?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ziektewetuitkering/vraag-en-antwoord/hoe-hoog-is-de-ziektewetuitkering"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/811b529d-9670-4bd3-8649-50bb8660a4c0"
+        ],
+        "id": [
+          "811b529d-9670-4bd3-8649-50bb8660a4c0"
+        ],
+        "lastmodified": [
+          "2016-04-04T14:33:02.241Z"
+        ],
+        "question": [
+          "Hoe hoog is mijn ziektewetuitkering?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ziektewetuitkering/vraag-en-antwoord/hoe-lang-ontvang-ik-de-ziektewetuitkering"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/a32a358f-3428-4bc3-86f2-8bf64a9813ae"
+        ],
+        "id": [
+          "a32a358f-3428-4bc3-86f2-8bf64a9813ae"
+        ],
+        "lastmodified": [
+          "2015-09-22T13:06:07.559Z"
+        ],
+        "question": [
+          "Hoe lang heb ik recht op een ziektewetuitkering?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/waar-kan-ik-een-klacht-over-de-huurcommissie-indienen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/d303f37d-6d0d-4938-9509-7538293de45d"
+        ],
+        "id": [
+          "d303f37d-6d0d-4938-9509-7538293de45d"
+        ],
+        "lastmodified": [
+          "2014-06-03T15:13:46.947Z"
+        ],
+        "question": [
+          "Waar kan ik een klacht indienen over de Huurcommissie?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/huur-overnemen-na-overlijden-huurder"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/1badb9c8-f1c5-472f-bff5-59c135fdb72f"
+        ],
+        "id": [
+          "1badb9c8-f1c5-472f-bff5-59c135fdb72f"
+        ],
+        "lastmodified": [
+          "2016-08-18T13:33:26.455Z"
+        ],
+        "question": [
+          "Kan ik als huisgenoot de huur overnemen na het overlijden van de huurder?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/medehuurder"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/94eace07-246b-46a0-9f8e-3351a00426a2"
+        ],
+        "id": [
+          "94eace07-246b-46a0-9f8e-3351a00426a2"
+        ],
+        "lastmodified": [
+          "2016-08-24T10:00:10.185Z"
+        ],
+        "question": [
+          "Wanneer ben ik medehuurder van een woning?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/rechten-plichten-medehuurder"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/281b3070-f603-4836-81e7-aa09a1cf6bbf"
+        ],
+        "id": [
+          "281b3070-f603-4836-81e7-aa09a1cf6bbf"
+        ],
+        "lastmodified": [
+          "2016-12-27T10:01:45.615Z"
+        ],
+        "question": [
+          "Wat zijn de rechten en plichten van medehuurders van een woning?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/nieuw-in-nederland/vraag-en-antwoord/heb-ik-als-buitenlandse-werknemer-in-nederland-recht-op-het-cao-loon"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b1ffc524-fc29-4c16-aee9-7ffebe8a5e67"
+        ],
+        "id": [
+          "b1ffc524-fc29-4c16-aee9-7ffebe8a5e67"
+        ],
+        "lastmodified": [
+          "2017-04-24T09:31:29.742Z"
+        ],
+        "question": [
+          "Heb ik als buitenlandse werknemer in Nederland recht op het cao-loon?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/levenseinde-en-euthanasie/vraag-en-antwoord/wilsverklaring-opstellen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/308f5501-375f-4380-ba91-321c28380792"
+        ],
+        "id": [
+          "308f5501-375f-4380-ba91-321c28380792"
+        ],
+        "lastmodified": [
+          "2016-11-04T14:22:25.758Z"
+        ],
+        "question": [
+          "Hoe stel ik een wilsverklaring op?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurverhoging/vraag-en-antwoord/kan-ik-bezwaar-maken-tegen-huurverhoging"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/297e6a1a-0c84-4517-b211-4ed3efa9578e"
+        ],
+        "id": [
+          "297e6a1a-0c84-4517-b211-4ed3efa9578e"
+        ],
+        "lastmodified": [
+          "2017-04-18T13:15:38.841Z"
+        ],
+        "question": [
+          "Bezwaar maken tegen huurverhoging: hoe werkt dat?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/arbeidsomstandigheden/vraag-en-antwoord/wat-is-pesten-op-het-werk-en-wat-moet-mijn-werkgever-daar-tegen-doen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/6e559f21-83f9-406c-8027-b113297efec6"
+        ],
+        "id": [
+          "6e559f21-83f9-406c-8027-b113297efec6"
+        ],
+        "lastmodified": [
+          "2017-04-11T07:23:25.207Z"
+        ],
+        "question": [
+          "Wat is pesten op het werk en wat moet mijn werkgever daar tegen doen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/arbeidsomstandigheden/vraag-en-antwoord/wat-kan-ik-doen-als-ik-op-mijn-werk-te-maken-krijg-met-pesten"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/0ace99bb-e811-4ed3-970e-821e2d7de43e"
+        ],
+        "id": [
+          "0ace99bb-e811-4ed3-970e-821e2d7de43e"
+        ],
+        "lastmodified": [
+          "2017-04-12T09:58:39.510Z"
+        ],
+        "question": [
+          "Wat kan ik doen als ik op mijn werk te maken krijg met pesten?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/persoonsgegevens/vraag-en-antwoord/wie-heeft-recht-op-inzage-in-mijn-gegevens-in-de-gemeentelijke-basisadministratie-gba"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b6c4abce-9db0-4689-af12-bf369a401772"
+        ],
+        "id": [
+          "b6c4abce-9db0-4689-af12-bf369a401772"
+        ],
+        "lastmodified": [
+          "2017-04-24T10:22:29.156Z"
+        ],
+        "question": [
+          "Wie mogen mijn gegevens in de Basisregistratie Personen (BRP) inzien?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/gemeenten/vraag-en-antwoord/hoe-kan-ik-mijn-verhuizing-doorgeven-aan-de-gemeente"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/52ec3237-0bf9-4368-b172-655c96ca68b2"
+        ],
+        "id": [
+          "52ec3237-0bf9-4368-b172-655c96ca68b2"
+        ],
+        "lastmodified": [
+          "2017-04-19T08:42:59.805Z"
+        ],
+        "question": [
+          "Hoe kan ik mijn verhuizing doorgeven aan de gemeente?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/legionella/vraag-en-antwoord/word-ik-ziek-als-besmet-ben-met-legionella"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/4dda62c1-0d31-435e-bd25-d86ddccd1ce0"
+        ],
+        "id": [
+          "4dda62c1-0d31-435e-bd25-d86ddccd1ce0"
+        ],
+        "lastmodified": [
+          "2016-05-09T08:21:53.175Z"
+        ],
+        "question": [
+          "Word ik ziek als ik besmet ben met legionella?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bodem-en-ondergrond/vraag-en-antwoord/ben-ik-verantwoordelijk-voor-de-bodemverontreiniging-rond-mijn-huis"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/69a1a031-54c3-4c94-b095-90387e5d506d"
+        ],
+        "id": [
+          "69a1a031-54c3-4c94-b095-90387e5d506d"
+        ],
+        "lastmodified": [
+          "2016-11-24T14:56:00.386Z"
+        ],
+        "question": [
+          "Ben ik verantwoordelijk voor de bodemverontreiniging rond mijn huis?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/auto/vraag-en-antwoord/mag-ik-een-auto-met-een-buitenlands-kenteken-hebben"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/44990e31-8b7a-4cb4-a0f5-d6d89b58ed6e"
+        ],
+        "id": [
+          "44990e31-8b7a-4cb4-a0f5-d6d89b58ed6e"
+        ],
+        "lastmodified": [
+          "2016-08-09T13:17:26.833Z"
+        ],
+        "question": [
+          "Mag ik een auto met een buitenlands kenteken hebben?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/rechtspraak-en-geschiloplossing/vraag-en-antwoord/wanneer-kan-ik-mediation-inzetten-in-plaats-van-een-rechtszaak-beginnen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/160ae5eb-85f6-42e7-bd06-a5a3d7d4813c"
+        ],
+        "id": [
+          "160ae5eb-85f6-42e7-bd06-a5a3d7d4813c"
+        ],
+        "lastmodified": [
+          "2017-04-12T12:18:12.943Z"
+        ],
+        "question": [
+          "Wanneer kan ik mediation inzetten in plaats van een rechtszaak beginnen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/duurzame-economie/vraag-en-antwoord/hoe-kan-ik-duurzaam-consumeren"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/251ca66d-c6e0-4267-ba1d-25d68264fdd2"
+        ],
+        "id": [
+          "251ca66d-c6e0-4267-ba1d-25d68264fdd2"
+        ],
+        "lastmodified": [
+          "2016-04-26T11:47:27.962Z"
+        ],
+        "question": [
+          "Hoe kan ik duurzaam consumeren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/koopwoning/vraag-en-antwoord/hoe-kan-ik-energie-besparen-in-mijn-koopwoning"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/a90410e4-5a40-4bcb-a3ff-c33d4dbb96b0"
+        ],
+        "id": [
+          "a90410e4-5a40-4bcb-a3ff-c33d4dbb96b0"
+        ],
+        "lastmodified": [
+          "2017-04-19T08:39:08.780Z"
+        ],
+        "question": [
+          "Hoe kan ik energie besparen in mijn koopwoning?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ruimtelijke-ordening-en-gebiedsontwikkeling/vraag-en-antwoord/hoe-kan-ik-bezwaar-maken-tegen-een-bestemmingsplan"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/713c6c96-0c1a-40a1-bb8b-877e47bfe3b4"
+        ],
+        "id": [
+          "713c6c96-0c1a-40a1-bb8b-877e47bfe3b4"
+        ],
+        "lastmodified": [
+          "2016-12-12T11:55:40.617Z"
+        ],
+        "question": [
+          "Hoe kan ik bezwaar maken tegen een bestemmingsplan?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/afval/vraag-en-antwoord/welk-afval-mag-ik-in-de-gft-bak-doen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b9b0ae1a-8705-4c6f-a836-181014648129"
+        ],
+        "id": [
+          "b9b0ae1a-8705-4c6f-a836-181014648129"
+        ],
+        "lastmodified": [
+          "2015-05-08T10:26:05.722Z"
+        ],
+        "question": [
+          "Waar kan ik mijn groente, fruit en tuinafval (gft) inleveren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/afval/vraag-en-antwoord/wat-kan-ik-doen-met-grofvuil"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/ee86a41a-1ae5-4a9a-a0e7-8a239a1008c7"
+        ],
+        "id": [
+          "ee86a41a-1ae5-4a9a-a0e7-8a239a1008c7"
+        ],
+        "lastmodified": [
+          "2015-05-08T09:24:18.682Z"
+        ],
+        "question": [
+          "Waar kan ik grofvuil inleveren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/afval/vraag-en-antwoord/wat-kan-ik-doen-met-bouwafval-en-sloopafval"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/57af2038-149e-4602-8c93-8e73b9e05405"
+        ],
+        "id": [
+          "57af2038-149e-4602-8c93-8e73b9e05405"
+        ],
+        "lastmodified": [
+          "2015-05-08T14:09:54.084Z"
+        ],
+        "question": [
+          "Waar kan ik bouwafval en sloopafval inleveren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/energie-thuis/vraag-en-antwoord/kan-mijn-energieleverancier-de-levering-van-energie-afsluiten-als-ik-niet-betaal"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/0730eed9-21c1-40a8-b8c8-cbcd46f53f12"
+        ],
+        "id": [
+          "0730eed9-21c1-40a8-b8c8-cbcd46f53f12"
+        ],
+        "lastmodified": [
+          "2017-05-02T07:28:21.067Z"
+        ],
+        "question": [
+          "Mag mijn energieleverancier mij van energie afsluiten als ik niet betaal?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/energie-thuis/vraag-en-antwoord/wanneer-ontvang-ik-mijn-energierekening-en-hoe-is-deze-opgebouwd"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/c6f8df82-c779-47b1-a3b4-1e5c308f2abe"
+        ],
+        "id": [
+          "c6f8df82-c779-47b1-a3b4-1e5c308f2abe"
+        ],
+        "lastmodified": [
+          "2016-12-27T10:46:07.739Z"
+        ],
+        "question": [
+          "Wanneer krijg ik mijn energierekening en hoe is die opgebouwd?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkeersveiligheid/vraag-en-antwoord/moet-ik-een-veiligheidsvest-in-mijn-auto-hebben"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8d9bc9b0-1b2c-40fc-9929-e3693856d4ae"
+        ],
+        "id": [
+          "8d9bc9b0-1b2c-40fc-9929-e3693856d4ae"
+        ],
+        "lastmodified": [
+          "2017-05-04T10:43:38.998Z"
+        ],
+        "question": [
+          "Moet ik een veiligheidsvest in mijn auto hebben?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/afval/vraag-en-antwoord/waar-kan-ik-klein-chemisch-afval-kca-inleveren"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/e97717b9-39d5-4bd7-87fa-47b40a6e1c43"
+        ],
+        "id": [
+          "e97717b9-39d5-4bd7-87fa-47b40a6e1c43"
+        ],
+        "lastmodified": [
+          "2017-05-12T08:29:49.190Z"
+        ],
+        "question": [
+          "Waar kan ik klein chemisch afval (kca) inleveren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkeersveiligheid/vraag-en-antwoord/hoe-blijf-ik-als-fietser-uit-de-dode-hoek-van-een-vrachtwagen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/3a79093e-eaac-4ac7-b311-2cf68d2c5eb4"
+        ],
+        "id": [
+          "3a79093e-eaac-4ac7-b311-2cf68d2c5eb4"
+        ],
+        "lastmodified": [
+          "2017-01-10T08:48:51.448Z"
+        ],
+        "question": [
+          "Hoe blijf ik als fietser uit de dode hoek van een vrachtwagen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/rijbewijs/vraag-en-antwoord/wat-is-het-beginnersrijbewijs"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/2b1b5424-149b-40fb-93f9-52a88efd3db6"
+        ],
+        "id": [
+          "2b1b5424-149b-40fb-93f9-52a88efd3db6"
+        ],
+        "lastmodified": [
+          "2017-04-05T13:17:26.945Z"
+        ],
+        "question": [
+          "Wanneer krijg ik een beginnersrijbewijs?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/rijbewijs/vraag-en-antwoord/welke-strafbare-feiten-tellen-mee-voor-het-beginnersrijbewijs"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/9a2dbb3a-7ca3-4d25-9d95-361bbc7fa6a3"
+        ],
+        "id": [
+          "9a2dbb3a-7ca3-4d25-9d95-361bbc7fa6a3"
+        ],
+        "lastmodified": [
+          "2017-04-05T13:50:08.648Z"
+        ],
+        "question": [
+          "Welke strafbare feiten tellen mee voor het beginnersrijbewijs?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/minimumloon/vraag-en-antwoord/wat-is-het-wettelijk-minimumloon-en-wanneer-heb-ik-er-recht-op"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/3a2c5c60-ad42-40d3-967f-ae3363e5e041"
+        ],
+        "id": [
+          "3a2c5c60-ad42-40d3-967f-ae3363e5e041"
+        ],
+        "lastmodified": [
+          "2017-04-05T09:28:54.268Z"
+        ],
+        "question": [
+          "Wat is het wettelijk minimumloon en wanneer heb ik er recht op?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/re-integratie/vraag-en-antwoord/wat-doet-een-re-integratiebedrijf"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/9e52eca1-75af-4ada-b196-6f14f4332c0e"
+        ],
+        "id": [
+          "9e52eca1-75af-4ada-b196-6f14f4332c0e"
+        ],
+        "lastmodified": [
+          "2015-11-06T08:38:20.417Z"
+        ],
+        "question": [
+          "Wat doet een re-integratiebedrijf?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/minimumloon/vraag-en-antwoord/hoe-is-het-wettelijk-minimumloon-opgebouwd"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/c947f0b7-7303-443f-b23c-a3888d523e8f"
+        ],
+        "id": [
+          "c947f0b7-7303-443f-b23c-a3888d523e8f"
+        ],
+        "lastmodified": [
+          "2017-04-05T09:11:42.272Z"
+        ],
+        "question": [
+          "Wat telt mee voor mijn minimumloon?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/vaccinaties/vraag-en-antwoord/welke-vaccinaties-heb-ik-tijdens-mijn-diensttijd-gekregen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/7cf7713b-092c-46aa-a824-bd4437ce9861"
+        ],
+        "id": [
+          "7cf7713b-092c-46aa-a824-bd4437ce9861"
+        ],
+        "lastmodified": [
+          "2016-01-18T09:50:14.689Z"
+        ],
+        "question": [
+          "Welke vaccinaties heb ik tijdens mijn diensttijd gekregen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/mededinging/vraag-en-antwoord/wat-doet-de-overheid-tegen-oneerlijke-handelspraktijken"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/5fc0ee38-0153-49a2-a29b-6ede9536dc0d"
+        ],
+        "id": [
+          "5fc0ee38-0153-49a2-a29b-6ede9536dc0d"
+        ],
+        "lastmodified": [
+          "2016-10-18T08:27:50.836Z"
+        ],
+        "question": [
+          "Wat doet de overheid tegen oneerlijke handelspraktijken?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/openbaar-vervoer/vraag-en-antwoord/waar-kan-ik-een-klacht-indienen-over-het-openbaar-vervoer-ov"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/3a8a0b64-5500-496e-8d2c-d5c6f06da3ea"
+        ],
+        "id": [
+          "3a8a0b64-5500-496e-8d2c-d5c6f06da3ea"
+        ],
+        "lastmodified": [
+          "2016-06-07T11:37:54.783Z"
+        ],
+        "question": [
+          "Waar kan ik een klacht indienen over het openbaar vervoer (ov)?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/defensiepersoneel/vraag-en-antwoord/wat-doet-de-krijgsmacht-voor-familie-en-vrienden-van-uitgezonden-militairen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/c9c1c248-8860-47a7-b493-92e62439ad3d"
+        ],
+        "id": [
+          "c9c1c248-8860-47a7-b493-92e62439ad3d"
+        ],
+        "lastmodified": [
+          "2017-04-20T10:45:33.113Z"
+        ],
+        "question": [
+          "Wat doet Defensie voor familie en vrienden van uitgezonden militairen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/rijbewijs/vraag-en-antwoord/wanneer-heb-ik-een-internationaal-rijbewijs-nodig"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8588a2d3-aec2-4776-a17c-1adbdb23250a"
+        ],
+        "id": [
+          "8588a2d3-aec2-4776-a17c-1adbdb23250a"
+        ],
+        "lastmodified": [
+          "2017-04-05T13:02:01.993Z"
+        ],
+        "question": [
+          "Wanneer heb ik een internationaal rijbewijs nodig?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/rijbewijs/vraag-en-antwoord/mag-ik-met-mijn-nederlandse-rijbewijs-in-het-buitenland-aan-het-verkeer-deelnemen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b33b0453-5f3b-4a2c-8efc-522a8ac38715"
+        ],
+        "id": [
+          "b33b0453-5f3b-4a2c-8efc-522a8ac38715"
+        ],
+        "lastmodified": [
+          "2017-04-05T14:01:04.131Z"
+        ],
+        "question": [
+          "Mag ik met mijn Nederlandse rijbewijs in het buitenland rijden?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/jongeren-en-werk/vraag-en-antwoord/welk-werk-mogen-kinderen-van-12-jaar-doen-en-hoe-lang-mogen-ze-werken"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/cfa4ee02-6226-4886-a2c4-cc9766b9aedb"
+        ],
+        "id": [
+          "cfa4ee02-6226-4886-a2c4-cc9766b9aedb"
+        ],
+        "lastmodified": [
+          "2015-09-22T12:47:06.704Z"
+        ],
+        "question": [
+          "Welk werk mogen kinderen van 12 jaar doen en hoe lang mogen ze werken?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/openbaar-vervoer/vraag-en-antwoord/wat-is-de-hogesnelheidslijn-zuid-hsl-zuid"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/4c1810f3-8735-4eec-a4ed-bcd95e376dfa"
+        ],
+        "id": [
+          "4c1810f3-8735-4eec-a4ed-bcd95e376dfa"
+        ],
+        "lastmodified": [
+          "2016-08-04T12:37:51.179Z"
+        ],
+        "question": [
+          "Wat is de Hogesnelheidslijn-Zuid (HSL-Zuid)?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ondernemen-en-innovatie/vraag-en-antwoord/wat-zijn-de-openingstijden-voor-winkels-op-doordeweekse-dagen-en-op-zaterdag"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/2ac9b3b4-768e-4206-8987-24383a5e8709"
+        ],
+        "id": [
+          "2ac9b3b4-768e-4206-8987-24383a5e8709"
+        ],
+        "lastmodified": [
+          "2017-02-13T08:43:45.242Z"
+        ],
+        "question": [
+          "Wat zijn de openingstijden voor winkels?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/mag-de-overheid-zich-bemoeien-met-de-prijsbepaling-van-producten-en-diensten"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/d04ee2e5-73b7-4ef6-8114-b02e2d0f8d89"
+        ],
+        "id": [
+          "d04ee2e5-73b7-4ef6-8114-b02e2d0f8d89"
+        ],
+        "lastmodified": [
+          "2017-03-08T08:34:40.062Z"
+        ],
+        "question": [
+          "Mag de overheid zich bemoeien met de prijzen van producten en diensten?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/moet-er-een-prijs-op-een-product-staan"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/1aea5015-0c29-4db1-bc06-c4c80e84d9ec"
+        ],
+        "id": [
+          "1aea5015-0c29-4db1-bc06-c4c80e84d9ec"
+        ],
+        "lastmodified": [
+          "2017-03-01T11:19:16.287Z"
+        ],
+        "question": [
+          "Moet er een prijs op een product staan?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ziekteverzuim-van-het-werk/vraag-en-antwoord/hoe-lang-krijg-ik-loon-doorbetaald-als-ik-ziek-ben"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b4c2b19d-ec2c-4273-b5b8-440b993df2c3"
+        ],
+        "id": [
+          "b4c2b19d-ec2c-4273-b5b8-440b993df2c3"
+        ],
+        "lastmodified": [
+          "2015-09-22T12:27:58.489Z"
+        ],
+        "question": [
+          "Hoe lang krijg ik loon doorbetaald als ik ziek ben?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ziekteverzuim-van-het-werk/vraag-en-antwoord/wordt-mijn-loon-doorbetaald-als-ik-als-uitzendkracht-ziek-ben"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b7009814-1936-4cb4-8304-3406d1fc6f13"
+        ],
+        "id": [
+          "b7009814-1936-4cb4-8304-3406d1fc6f13"
+        ],
+        "lastmodified": [
+          "2016-12-19T13:21:12.681Z"
+        ],
+        "question": [
+          "Wordt mijn loon doorbetaald als ik als uitzendkracht ziek ben?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ziekteverzuim-van-het-werk/vraag-en-antwoord/wordt-mijn-loon-doorbetaald-als-ik-ziek-word"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/f5f7182e-163b-45c2-9d81-f6f0e4e8d9b4"
+        ],
+        "id": [
+          "f5f7182e-163b-45c2-9d81-f6f0e4e8d9b4"
+        ],
+        "lastmodified": [
+          "2016-08-16T11:27:17.502Z"
+        ],
+        "question": [
+          "Wordt mijn loon doorbetaald als ik ziek word?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ziekteverzuim-van-het-werk/vraag-en-antwoord/wat-moeten-mijn-werkgever-en-ik-doen-als-ik-lang-ziek-ben"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/1e3e254e-9ce3-4589-9574-73f610e91c9c"
+        ],
+        "id": [
+          "1e3e254e-9ce3-4589-9574-73f610e91c9c"
+        ],
+        "lastmodified": [
+          "2015-08-27T12:23:50.129Z"
+        ],
+        "question": [
+          "Wat moeten mijn werkgever en ik doen als ik lang ziek ben?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ziekteverzuim-van-het-werk/vraag-en-antwoord/krijg-ik-met-een-tijdelijk-contract-ook-loon-doorbetaald-als-ik-ziek-ben"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/eb58fb3a-2004-44f2-a234-26d5d53dc9ff"
+        ],
+        "id": [
+          "eb58fb3a-2004-44f2-a234-26d5d53dc9ff"
+        ],
+        "lastmodified": [
+          "2016-12-19T13:30:34.322Z"
+        ],
+        "question": [
+          "Krijg ik met een tijdelijk contract ook loon doorbetaald als ik ziek ben?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/provincies/vraag-en-antwoord/wat-is-een-waterschap"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8cb819cb-f462-42e4-b051-85f0e452e72c"
+        ],
+        "id": [
+          "8cb819cb-f462-42e4-b051-85f0e452e72c"
+        ],
+        "lastmodified": [
+          "2015-11-03T13:42:23.590Z"
+        ],
+        "question": [
+          "Wat is een waterschap?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkiezingen/vraag-en-antwoord/wanneer-mag-ik-stemmen-bij-verkiezingen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/70de4e67-8538-4327-949d-1624548e7902"
+        ],
+        "id": [
+          "70de4e67-8538-4327-949d-1624548e7902"
+        ],
+        "lastmodified": [
+          "2017-02-28T08:16:32.495Z"
+        ],
+        "question": [
+          "Wanneer mag ik stemmen bij verkiezingen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/algemene-nabestaandenwet-anw/vraag-en-antwoord/hoe-hoog-is-de-anw-uitkering"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/f211f024-05f1-4066-8480-33d6c523cc84"
+        ],
+        "id": [
+          "f211f024-05f1-4066-8480-33d6c523cc84"
+        ],
+        "lastmodified": [
+          "2015-12-11T09:34:29.804Z"
+        ],
+        "question": [
+          "Hoe hoog is de Anw-uitkering?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/persoonsgegevens/vraag-en-antwoord/mogen-organisaties-volgens-de-wet-bescherming-persoonsgegevens-mijn-gegevens-verwerken"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/31014a2a-4cb0-4159-9abd-edd9d59ee635"
+        ],
+        "id": [
+          "31014a2a-4cb0-4159-9abd-edd9d59ee635"
+        ],
+        "lastmodified": [
+          "2016-04-28T11:09:19.843Z"
+        ],
+        "question": [
+          "Mogen organisaties mijn persoonsgegevens verwerken?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/dierenwelzijn/vraag-en-antwoord/mag-mijn-kat-of-hond-mee-op-vakantie"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/fa3f1d79-45ba-46af-aee6-649af0fc5810"
+        ],
+        "id": [
+          "fa3f1d79-45ba-46af-aee6-649af0fc5810"
+        ],
+        "lastmodified": [
+          "2016-11-23T08:38:55.786Z"
+        ],
+        "question": [
+          "Mag mijn kat of hond mee op vakantie?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/vraag-en-antwoord/wat-is-een-elektronische-handtekening"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/e111dcaf-5a67-43df-8a6a-41d188603397"
+        ],
+        "id": [
+          "e111dcaf-5a67-43df-8a6a-41d188603397"
+        ],
+        "lastmodified": [
+          "2016-08-18T12:51:16.479Z"
+        ],
+        "question": [
+          "Wat is een elektronische of digitale handtekening?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/digitale-overheid/vraag-en-antwoord/waar-kan-ik-een-elektronische-handtekening-aanvragen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/a6a2fae8-5e15-417a-bbf3-ce01fe518241"
+        ],
+        "id": [
+          "a6a2fae8-5e15-417a-bbf3-ce01fe518241"
+        ],
+        "lastmodified": [
+          "2016-08-24T08:55:06.583Z"
+        ],
+        "question": [
+          "Waar kan ik een elektronische handtekening aanvragen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/kwaliteit-en-integriteit-overheidsinstanties/vraag-en-antwoord/wat-doet-de-nationale-ombudsman"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/4af2bced-e9d2-4a0c-a643-4ae7d4c3b0a1"
+        ],
+        "id": [
+          "4af2bced-e9d2-4a0c-a643-4ae7d4c3b0a1"
+        ],
+        "lastmodified": [
+          "2017-01-10T08:58:00.272Z"
+        ],
+        "question": [
+          "Wat doet de Nationale ombudsman?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/kwaliteit-en-integriteit-overheidsinstanties/vraag-en-antwoord/hoe-kan-ik-een-klacht-indienen-bij-de-nationale-ombudsman"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/a7a3f836-666d-4466-98c8-dce514d1298f"
+        ],
+        "id": [
+          "a7a3f836-666d-4466-98c8-dce514d1298f"
+        ],
+        "lastmodified": [
+          "2016-12-27T10:44:09.451Z"
+        ],
+        "question": [
+          "Hoe kan ik een klacht indienen bij de Nationale ombudsman?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/zelfstandigen-zonder-personeel-zzp/vraag-en-antwoord/hoe-kan-ik-mij-als-zelfstandig-ondernemer-verzekeren-tegen-arbeidsongeschiktheid"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/9c4248bf-587e-4bf9-800c-5b39d321feb0"
+        ],
+        "id": [
+          "9c4248bf-587e-4bf9-800c-5b39d321feb0"
+        ],
+        "lastmodified": [
+          "2017-04-04T10:55:43.299Z"
+        ],
+        "question": [
+          "Hoe kan ik mij als zelfstandig ondernemer verzekeren tegen arbeidsongeschiktheid?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/werken-in-het-onderwijs/vraag-en-antwoord/studiefinanciering-lerarenopleiding"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/bab140e0-01af-4266-8a6d-89a15efa4fd9"
+        ],
+        "id": [
+          "bab140e0-01af-4266-8a6d-89a15efa4fd9"
+        ],
+        "lastmodified": [
+          "2016-08-09T13:51:20.292Z"
+        ],
+        "question": [
+          "Welke mogelijkheden voor studiefinanciering zijn er voor een lerarenopleiding?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/armoede-en-schulden/vraag-en-antwoord/hoe-tref-ik-een-betalingsregeling-met-mijn-schuldeisers"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/a4f922ab-aeb5-43c4-9243-7b5d6422dac5"
+        ],
+        "id": [
+          "a4f922ab-aeb5-43c4-9243-7b5d6422dac5"
+        ],
+        "lastmodified": [
+          "2016-03-22T14:55:39.723Z"
+        ],
+        "question": [
+          "Hoe tref ik een betalingsregeling met mijn schuldeisers?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/armoede-en-schulden/vraag-en-antwoord/hoe-kom-ik-van-mijn-schulden-af"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/6067a6d9-0cb1-4ba4-96eb-4c402bc932c9"
+        ],
+        "id": [
+          "6067a6d9-0cb1-4ba4-96eb-4c402bc932c9"
+        ],
+        "lastmodified": [
+          "2016-11-29T12:16:33.175Z"
+        ],
+        "question": [
+          "Hoe kom ik van mijn schulden af?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/rijbewijs/vraag-en-antwoord/welke-rijbewijscategorieen-zijn-er"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/834a247f-10b4-40f7-9192-cbff403d0188"
+        ],
+        "id": [
+          "834a247f-10b4-40f7-9192-cbff403d0188"
+        ],
+        "lastmodified": [
+          "2017-04-05T12:59:34.722Z"
+        ],
+        "question": [
+          "Welke rijbewijzen (rijbewijscategorieën) zijn er?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/apk/vraag-en-antwoord/wat-wordt-er-gekeurd-bij-de-algemene-periodieke-keuring-apk"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/51908408-68b4-4e57-8034-420fb372456d"
+        ],
+        "id": [
+          "51908408-68b4-4e57-8034-420fb372456d"
+        ],
+        "lastmodified": [
+          "2016-10-25T13:33:56.550Z"
+        ],
+        "question": [
+          "Wat wordt er gekeurd bij de algemene periodieke keuring (apk)?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/dienstenrichtlijn/vraag-en-antwoord/wat-betekent-de-dienstenrichtlijn-voor-overheden"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/db628984-2e63-4066-9184-85f180775f9a"
+        ],
+        "id": [
+          "db628984-2e63-4066-9184-85f180775f9a"
+        ],
+        "lastmodified": [
+          "2017-02-10T12:18:16.020Z"
+        ],
+        "question": [
+          "Wat betekent de Dienstenrichtlijn voor overheden?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/krijgsmacht/vraag-en-antwoord/uit-welke-onderdelen-bestaat-de-nederlandse-krijgsmacht"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/abc9d3b2-be5b-4e1c-9d3a-d6802122d329"
+        ],
+        "id": [
+          "abc9d3b2-be5b-4e1c-9d3a-d6802122d329"
+        ],
+        "lastmodified": [
+          "2016-01-13T09:03:15.626Z"
+        ],
+        "question": [
+          "Uit welke onderdelen bestaat de Nederlandse krijgsmacht?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/krijgsmacht/vraag-en-antwoord/wat-doet-het-nederlandse-leger"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/af5c5175-4e89-4f69-a99f-31b4f22fe73f"
+        ],
+        "id": [
+          "af5c5175-4e89-4f69-a99f-31b4f22fe73f"
+        ],
+        "lastmodified": [
+          "2017-04-20T10:33:21.548Z"
+        ],
+        "question": [
+          "Wat doet het Nederlandse leger?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/auto/vraag-en-antwoord/hoe-kan-ik-een-auto-uit-het-buitenland-in-nederland-importeren-invoeren"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/e8ac3741-d89b-43dd-9359-fcfea8b27b9a"
+        ],
+        "id": [
+          "e8ac3741-d89b-43dd-9359-fcfea8b27b9a"
+        ],
+        "lastmodified": [
+          "2017-01-12T10:55:24.669Z"
+        ],
+        "question": [
+          "Wat is nodig als ik een auto uit het buitenland wil importeren (invoeren)?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/wat-moet-er-in-een-huurcontract-staan"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/63dda0cf-a8c8-4424-acc0-79d41a76d9b0"
+        ],
+        "id": [
+          "63dda0cf-a8c8-4424-acc0-79d41a76d9b0"
+        ],
+        "lastmodified": [
+          "2017-05-03T12:13:06.230Z"
+        ],
+        "question": [
+          "Wat moet er in een huurcontract staan?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/wanneer-mag-mijn-verhuurder-het-huurcontract-opzeggen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/c605ae0f-8ba6-4e91-88b6-4c1c7efd76c6"
+        ],
+        "id": [
+          "c605ae0f-8ba6-4e91-88b6-4c1c7efd76c6"
+        ],
+        "lastmodified": [
+          "2016-10-13T11:17:16.453Z"
+        ],
+        "question": [
+          "Wanneer mag mijn verhuurder de huur opzeggen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/hoe-moeten-huurder-en-verhuurder-de-huur-opzeggen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/d6aa93ba-221c-4c4f-9df1-710f56c5b649"
+        ],
+        "id": [
+          "d6aa93ba-221c-4c4f-9df1-710f56c5b649"
+        ],
+        "lastmodified": [
+          "2016-12-27T09:21:05.595Z"
+        ],
+        "question": [
+          "Huur opzeggen: hoe doe ik dat als huurder en verhuurder?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/wat-is-de-betekenis-van-sleutelgeld-overnamekosten-waarborgsom-en-verhuurkosten"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/d61f5a48-d37c-481a-8f3f-a5874de8952e"
+        ],
+        "id": [
+          "d61f5a48-d37c-481a-8f3f-a5874de8952e"
+        ],
+        "lastmodified": [
+          "2017-04-25T14:55:52.910Z"
+        ],
+        "question": [
+          "Wat is de betekenis van sleutelgeld, overnamekosten, waarborgsom en verhuurkosten?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/rijbewijs/vraag-en-antwoord/moet-ik-medisch-gekeurd-worden-voor-het-aanvragen-of-vernieuwen-van-een-groot-rijbewijs"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/98cc369a-b825-44d8-84a9-14725f6f0be5"
+        ],
+        "id": [
+          "98cc369a-b825-44d8-84a9-14725f6f0be5"
+        ],
+        "lastmodified": [
+          "2017-04-05T13:34:37.382Z"
+        ],
+        "question": [
+          "Hoe werkt de medische keuring voor een groot rijbewijs?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/rijbewijs/vraag-en-antwoord/wat-houdt-het-onderzoek-naar-rijvaardigheid-in"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/5d4853ee-66c8-4919-9f2f-d7e33fcd1c01"
+        ],
+        "id": [
+          "5d4853ee-66c8-4919-9f2f-d7e33fcd1c01"
+        ],
+        "lastmodified": [
+          "2017-05-04T11:16:23.854Z"
+        ],
+        "question": [
+          "Wat houdt het onderzoek naar uw rijvaardigheid in?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/rijbewijs/vraag-en-antwoord/kan-ik-een-boete-bekeuring-krijgen-voor-het-rijden-zonder-rijbewijs"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/efe513dc-399a-4078-a941-2573e486dbe9"
+        ],
+        "id": [
+          "efe513dc-399a-4078-a941-2573e486dbe9"
+        ],
+        "lastmodified": [
+          "2016-04-19T20:34:52.897Z"
+        ],
+        "question": [
+          "Kan ik een boete (bekeuring) krijgen voor het rijden zonder rijbewijs?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/afval/vraag-en-antwoord/welk-glas-mag-ik-in-de-glasbak-gooien"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/471200af-0de7-49b0-b05b-40a26d726ea7"
+        ],
+        "id": [
+          "471200af-0de7-49b0-b05b-40a26d726ea7"
+        ],
+        "lastmodified": [
+          "2016-02-22T12:57:57.889Z"
+        ],
+        "question": [
+          "Waar kan ik verpakkingsglas inleveren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/afval/vraag-en-antwoord/welk-afval-mag-ik-bij-het-oud-papier-doen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/c6d20503-b6e8-47a4-9d93-8cf0e18675c3"
+        ],
+        "id": [
+          "c6d20503-b6e8-47a4-9d93-8cf0e18675c3"
+        ],
+        "lastmodified": [
+          "2015-05-08T12:11:35.025Z"
+        ],
+        "question": [
+          "Waar kan ik oud papier inleveren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/reizen-in-het-buitenland/vraag-en-antwoord/welk-risico-loop-ik-als-ik-drugs-meeneem-naar-het-buitenland"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/fe3c892d-90ab-4058-947c-b5294fb71e8b"
+        ],
+        "id": [
+          "fe3c892d-90ab-4058-947c-b5294fb71e8b"
+        ],
+        "lastmodified": [
+          "2017-04-19T14:03:11.110Z"
+        ],
+        "question": [
+          "Welk risico loop ik als ik drugs meeneem naar het buitenland?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/reizen-in-het-buitenland/vraag-en-antwoord/wanneer-krijg-ik-mijn-geld-terug-bij-een-geboekte-reis"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/2423383e-1145-47c7-ad7d-8e48c5cdeb09"
+        ],
+        "id": [
+          "2423383e-1145-47c7-ad7d-8e48c5cdeb09"
+        ],
+        "lastmodified": [
+          "2017-02-10T08:37:30.930Z"
+        ],
+        "question": [
+          "Wanneer krijg ik mijn geld terug bij een geboekte reis?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/patientenrecht-en-clientenrecht/vraag-en-antwoord/welke-informatie-moet-ik-als-patient-krijgen-over-een-medische-behandeling"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/695b2d4d-0a38-47f4-8bff-86f57319bf19"
+        ],
+        "id": [
+          "695b2d4d-0a38-47f4-8bff-86f57319bf19"
+        ],
+        "lastmodified": [
+          "2016-06-01T12:10:41.333Z"
+        ],
+        "question": [
+          "Welke informatie moet ik als patiënt krijgen over een medische behandeling?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/slachtofferbeleid/vraag-en-antwoord/hoe-help-ik-slachtoffers-van-geweld-op-straat"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/a9b3c874-512b-4407-8fd8-c8ea88880f21"
+        ],
+        "id": [
+          "a9b3c874-512b-4407-8fd8-c8ea88880f21"
+        ],
+        "lastmodified": [
+          "2017-04-04T12:50:35.493Z"
+        ],
+        "question": [
+          "Hoe help ik slachtoffers van geweld op straat?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/rechtspraak-en-geschiloplossing/vraag-en-antwoord/wat-kost-mediation"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b6406b08-d627-484c-95c4-e2de78324339"
+        ],
+        "id": [
+          "b6406b08-d627-484c-95c4-e2de78324339"
+        ],
+        "lastmodified": [
+          "2017-04-12T12:19:43.664Z"
+        ],
+        "question": [
+          "Wat kost mediation?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/arbeidsomstandigheden/vraag-en-antwoord/waar-moet-ik-op-letten-als-ik-zwanger-ben-en-werk"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/f2fae590-7bdb-403b-8ca3-9309c4d58df5"
+        ],
+        "id": [
+          "f2fae590-7bdb-403b-8ca3-9309c4d58df5"
+        ],
+        "lastmodified": [
+          "2017-04-12T10:16:28.566Z"
+        ],
+        "question": [
+          "Waar moet ik op letten als ik zwanger ben en werk?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/wanneer-moet-ik-collegegeld-betalen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/47720852-9c0d-4459-881a-f07a4a1ebd4b"
+        ],
+        "id": [
+          "47720852-9c0d-4459-881a-f07a4a1ebd4b"
+        ],
+        "lastmodified": [
+          "2016-08-24T15:28:58.758Z"
+        ],
+        "question": [
+          "Wanneer moet ik collegegeld betalen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/energie-thuis/vraag-en-antwoord/kan-ik-een-energieleverancier-kiezen-bij-blokverwarming-of-stadsverwarming"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8acef03e-8bab-422b-9f07-a9a1f10113bd"
+        ],
+        "id": [
+          "8acef03e-8bab-422b-9f07-a9a1f10113bd"
+        ],
+        "lastmodified": [
+          "2017-03-20T09:48:51.881Z"
+        ],
+        "question": [
+          "Kan ik zelf een energieleverancier kiezen bij blokverwarming of stadsverwarming?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/identiteitsfraude/vraag-en-antwoord/identiteitsfraude-voorkomen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/37b8be04-2412-470c-a954-89f3c0af1d32"
+        ],
+        "id": [
+          "37b8be04-2412-470c-a954-89f3c0af1d32"
+        ],
+        "lastmodified": [
+          "2016-05-24T14:33:49.209Z"
+        ],
+        "question": [
+          "Hoe kan ik identiteitsfraude voorkomen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/identiteitsfraude/vraag-en-antwoord/wat-is-skimmen-en-hoe-kan-ik-voorkomen-dat-anderen-mijn-betaalgegevens-zien"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8ca4f115-f233-452d-97e6-90d5d713da62"
+        ],
+        "id": [
+          "8ca4f115-f233-452d-97e6-90d5d713da62"
+        ],
+        "lastmodified": [
+          "2016-06-17T07:32:55.721Z"
+        ],
+        "question": [
+          "Hoe voorkom ik dat criminelen mijn creditcard of bankpas skimmen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/terrorisme-en-nationale-veiligheid/vraag-en-antwoord/wat-zit-er-in-een-noodpakket"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/a93c4869-6840-49c6-a222-a53c0e662a3b"
+        ],
+        "id": [
+          "a93c4869-6840-49c6-a222-a53c0e662a3b"
+        ],
+        "lastmodified": [
+          "2017-04-05T14:00:59.220Z"
+        ],
+        "question": [
+          "Wat zit er in een noodpakket?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/openbaar-vervoer/vraag-en-antwoord/wat-is-een-ov-chipkaart"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/d9271950-c7fd-421f-ba8b-ed758d1fd94d"
+        ],
+        "id": [
+          "d9271950-c7fd-421f-ba8b-ed758d1fd94d"
+        ],
+        "lastmodified": [
+          "2016-08-10T09:01:09.833Z"
+        ],
+        "question": [
+          "Wat is een ov-chipkaart?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/middelbaar-beroepsonderwijs/vraag-en-antwoord/wat-zijn-de-toelatingseisen-voor-het-middelbaar-beroepsonderwijs-mbo"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/c08132fb-2dff-4255-9b95-1ca175ea9a12"
+        ],
+        "id": [
+          "c08132fb-2dff-4255-9b95-1ca175ea9a12"
+        ],
+        "lastmodified": [
+          "2017-05-02T12:02:53.956Z"
+        ],
+        "question": [
+          "Wat zijn de toelatingseisen voor het middelbaar beroepsonderwijs (mbo)?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/wat-kan-ik-doen-als-ik-aan-de-universiteit-of-hogeschool-studievertraging-heb-opgelopen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/3ba7c8a0-631c-4162-97d5-72ecb8f9ad0a"
+        ],
+        "id": [
+          "3ba7c8a0-631c-4162-97d5-72ecb8f9ad0a"
+        ],
+        "lastmodified": [
+          "2015-11-03T13:12:14.376Z"
+        ],
+        "question": [
+          "Wat kan ik doen als ik aan de universiteit of hogeschool studievertraging heb opgelopen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/ziekteverzuim-van-het-werk/vraag-en-antwoord/krijg-ik-als-oproepkracht-ook-loon-als-ik-ziek-ben"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/526776c9-88a7-495a-b5fd-de7387515ce8"
+        ],
+        "id": [
+          "526776c9-88a7-495a-b5fd-de7387515ce8"
+        ],
+        "lastmodified": [
+          "2017-02-10T14:45:16.895Z"
+        ],
+        "question": [
+          "Krijg ik als oproepkracht ook loon als ik ziek ben?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkeersveiligheid/vraag-en-antwoord/wie-is-bob-en-waar-staat-bob-voor"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/88b124c2-9194-455b-9313-22409b6d1e22"
+        ],
+        "id": [
+          "88b124c2-9194-455b-9313-22409b6d1e22"
+        ],
+        "lastmodified": [
+          "2016-08-16T11:13:15.708Z"
+        ],
+        "question": [
+          "Wie is Bob en waar staat Bob voor?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/waar-kan-ik-terecht-voor-hulp-bij-een-juridisch-probleem-of-conflict"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/0753af8c-d4d5-44fa-99e7-af1c1ccbd9b3"
+        ],
+        "id": [
+          "0753af8c-d4d5-44fa-99e7-af1c1ccbd9b3"
+        ],
+        "lastmodified": [
+          "2017-05-08T13:35:06.792Z"
+        ],
+        "question": [
+          "Waar kan ik terecht voor juridisch advies?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkiezingen/vraag-en-antwoord/hoe-worden-de-zetels-van-de-tweede-kamer-over-de-politieke-partijen-verdeeld"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/23705f2b-c108-4eb1-b4cc-6b24e46a928e"
+        ],
+        "id": [
+          "23705f2b-c108-4eb1-b4cc-6b24e46a928e"
+        ],
+        "lastmodified": [
+          "2017-04-20T14:28:53.541Z"
+        ],
+        "question": [
+          "Hoe werkt de zetelverdeling na de Tweede Kamerverkiezingen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/parlement/vraag-en-antwoord/hoe-zijn-de-zetels-verdeeld-in-de-tweede-kamer-en-de-eerste-kamer"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/aa0da3f3-92ee-4866-9b10-4ca3c85c5728"
+        ],
+        "id": [
+          "aa0da3f3-92ee-4866-9b10-4ca3c85c5728"
+        ],
+        "lastmodified": [
+          "2017-05-09T07:48:22.901Z"
+        ],
+        "question": [
+          "Hoe zijn de zetels verdeeld in de Tweede Kamer en de Eerste Kamer?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/democratie/vraag-en-antwoord/hoe-richt-ik-een-politieke-partij-op"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/dca149d3-54ab-4161-9780-8f3df3a2fe9b"
+        ],
+        "id": [
+          "dca149d3-54ab-4161-9780-8f3df3a2fe9b"
+        ],
+        "lastmodified": [
+          "2017-04-13T16:15:07.846Z"
+        ],
+        "question": [
+          "Hoe richt ik een politieke partij op?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bodem-en-ondergrond/vraag-en-antwoord/wat-moet-ik-doen-als-ik-een-oude-olietank-in-mijn-tuin-vind"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/3ea0b039-1205-46e3-be29-411e02dd282c"
+        ],
+        "id": [
+          "3ea0b039-1205-46e3-be29-411e02dd282c"
+        ],
+        "lastmodified": [
+          "2016-08-11T07:34:36.403Z"
+        ],
+        "question": [
+          "Wat moet ik doen als ik een oude olietank in mijn tuin vind?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/gevaarlijke-stoffen/vraag-en-antwoord/wat-is-externe-veiligheid-en-hoe-weet-ik-of-er-risico-s-zijn-in-mijn-woonomgeving"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/2bb5abad-df2a-401a-ad43-fe3812948ef0"
+        ],
+        "id": [
+          "2bb5abad-df2a-401a-ad43-fe3812948ef0"
+        ],
+        "lastmodified": [
+          "2015-11-03T13:04:46.432Z"
+        ],
+        "question": [
+          "Wat is externe veiligheid en hoe weet ik of er risico’s zijn in mijn woonomgeving?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/nederlandse-nationaliteit/vraag-en-antwoord/wat-is-een-naturalisatieceremonie-en-wat-is-de-nationale-naturalisatiedag"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/7063546b-f809-49f9-842b-3dddb2347cdb"
+        ],
+        "id": [
+          "7063546b-f809-49f9-842b-3dddb2347cdb"
+        ],
+        "lastmodified": [
+          "2017-04-05T10:33:37.511Z"
+        ],
+        "question": [
+          "Hoe verloopt de naturalisatieceremonie?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/nederlandse-nationaliteit/vraag-en-antwoord/wat-verandert-er-voor-mij-wanneer-ik-de-nederlandse-nationaliteit-krijg"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/243c4c42-6b3c-4919-ba9c-2abd93bc01fd"
+        ],
+        "id": [
+          "243c4c42-6b3c-4919-ba9c-2abd93bc01fd"
+        ],
+        "lastmodified": [
+          "2017-04-06T12:30:54.404Z"
+        ],
+        "question": [
+          "Wat verandert er voor mij wanneer ik de Nederlandse nationaliteit krijg?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/renovatie-woningverbetering-onderhoud"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/d87cb4ce-8ec4-4ace-91e3-6c00b73a4b4e"
+        ],
+        "id": [
+          "d87cb4ce-8ec4-4ace-91e3-6c00b73a4b4e"
+        ],
+        "lastmodified": [
+          "2017-04-11T10:28:22.738Z"
+        ],
+        "question": [
+          "Wat is het verschil tussen renovatie, woningverbetering en onderhoud?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/achterstallig-onderhoud"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/ad8e93c2-5119-42d9-ac0c-e0e3cbfc1bb9"
+        ],
+        "id": [
+          "ad8e93c2-5119-42d9-ac0c-e0e3cbfc1bb9"
+        ],
+        "lastmodified": [
+          "2017-04-25T14:17:28.877Z"
+        ],
+        "question": [
+          "Hoe zorg ik ervoor dat de verhuurder achterstallig onderhoud aanpakt?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/toestemming-verhuurder-voor-verbouwing"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/f58e21be-7287-40f4-a078-1959e88480f7"
+        ],
+        "id": [
+          "f58e21be-7287-40f4-a078-1959e88480f7"
+        ],
+        "lastmodified": [
+          "2017-04-19T09:11:12.314Z"
+        ],
+        "question": [
+          "Ik wil mijn huurwoning verbouwen. Heb ik toestemming van mijn verhuurder nodig?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/moet-ik-mijn-huurwoning-in-oude-staat-herstellen-bij-het-einde-van-het-huurcontract"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/1aaf8275-4015-4b55-9254-41f6aba7331c"
+        ],
+        "id": [
+          "1aaf8275-4015-4b55-9254-41f6aba7331c"
+        ],
+        "lastmodified": [
+          "2016-12-27T10:03:12.500Z"
+        ],
+        "question": [
+          "Moet ik mijn huurwoning in oude staat herstellen bij het einde van het huurcontract?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/mag-mijn-verhuurder-zonder-mijn-toestemming-het-complex-waarin-ik-woon-renoveren"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/34a60267-75f0-4389-8b99-b328835bcbd9"
+        ],
+        "id": [
+          "34a60267-75f0-4389-8b99-b328835bcbd9"
+        ],
+        "lastmodified": [
+          "2017-04-07T15:59:52.806Z"
+        ],
+        "question": [
+          "Mag mijn verhuurder zonder mijn toestemming het complex waarin ik woon renoveren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/seniorenwoningen/vraag-en-antwoord/huurverhoging-na-aanpassing-woning-voor-gehandicapten"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/a3029227-2682-40ae-9555-9aee4e5bbc0e"
+        ],
+        "id": [
+          "a3029227-2682-40ae-9555-9aee4e5bbc0e"
+        ],
+        "lastmodified": [
+          "2017-01-09T12:37:57.287Z"
+        ],
+        "question": [
+          "Mag huurverhoging na het aanbrengen van voorzieningen voor gehandicapten?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/auto/vraag-en-antwoord/hoe-hoog-is-de-verwijderingsbijdrage-bij-aankoop-van-een-nieuwe-auto"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/248900be-baa2-4332-addc-61fb6950fc84"
+        ],
+        "id": [
+          "248900be-baa2-4332-addc-61fb6950fc84"
+        ],
+        "lastmodified": [
+          "2016-12-05T15:24:30.297Z"
+        ],
+        "question": [
+          "Hoe hoog is de verwijderingsbijdrage bij aankoop van een auto?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/huurwoning/vraag-en-antwoord/wanneer-heb-ik-recht-op-verhuiskostenvergoeding"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/1fbbe892-aa52-4e7a-b8c6-56c3014d6041"
+        ],
+        "id": [
+          "1fbbe892-aa52-4e7a-b8c6-56c3014d6041"
+        ],
+        "lastmodified": [
+          "2017-02-28T13:05:51.652Z"
+        ],
+        "question": [
+          "Heb ik recht op een verhuiskostenvergoeding?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/kwaliteit-en-integriteit-overheidsinstanties/vraag-en-antwoord/wat-doet-de-kinderombudsman"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/40151300-300f-4065-9989-e8806c8da917"
+        ],
+        "id": [
+          "40151300-300f-4065-9989-e8806c8da917"
+        ],
+        "lastmodified": [
+          "2017-04-11T11:45:37.999Z"
+        ],
+        "question": [
+          "Wat doet de Kinderombudsman?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkeersveiligheid/vraag-en-antwoord/wanneer-moet-ik-de-autogordel-gebruiken"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/533d6f8c-0656-4270-93c2-b1a58d409aab"
+        ],
+        "id": [
+          "533d6f8c-0656-4270-93c2-b1a58d409aab"
+        ],
+        "lastmodified": [
+          "2017-01-10T08:42:10.929Z"
+        ],
+        "question": [
+          "Wanneer moet ik de autogordel gebruiken?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkeersveiligheid/vraag-en-antwoord/wat-zijn-verkeersregelaars-en-verkeersbrigadiers"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/08516bc5-9e9a-44ed-855c-221e5e7a4e53"
+        ],
+        "id": [
+          "08516bc5-9e9a-44ed-855c-221e5e7a4e53"
+        ],
+        "lastmodified": [
+          "2016-05-09T08:40:52.445Z"
+        ],
+        "question": [
+          "Wat zijn verkeersregelaars en verkeersbrigadiers?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bijstand-voor-zelfstandigen-bbz/vraag-en-antwoord/kan-ik-als-oudere-zelfstandige-met-een-niet-levensvatbaar-bedrijf-het-bbz-gebruiken"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/5a119263-05ec-4a3d-a9ed-a0f6d992b1f1"
+        ],
+        "id": [
+          "5a119263-05ec-4a3d-a9ed-a0f6d992b1f1"
+        ],
+        "lastmodified": [
+          "2017-01-02T09:41:32.301Z"
+        ],
+        "question": [
+          "Kan ik als oudere zelfstandige met een niet-levensvatbaar bedrijf het Bbz gebruiken?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/met-welke-diploma-s-kan-ik-naar-de-universiteit-of-hogeschool"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/940d7589-ac44-462f-9974-eeafca258c91"
+        ],
+        "id": [
+          "940d7589-ac44-462f-9974-eeafca258c91"
+        ],
+        "lastmodified": [
+          "2017-04-07T15:04:32.854Z"
+        ],
+        "question": [
+          "Met welke diploma's kan ik naar de universiteit of hogeschool?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/hoe-werkt-de-toelating-bij-een-opleiding-met-een-numerus-fixus"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/028a829c-de52-440f-8b83-8d2c9377201a"
+        ],
+        "id": [
+          "028a829c-de52-440f-8b83-8d2c9377201a"
+        ],
+        "lastmodified": [
+          "2017-04-11T13:45:40.427Z"
+        ],
+        "question": [
+          "Hoe meld ik me aan voor een fixusopleiding?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/toerisme-en-recreatie/vraag-en-antwoord/mag-ik-permanent-in-een-recreatiewoning-wonen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/3bfab335-3890-4781-9a32-bb03ba37ee91"
+        ],
+        "id": [
+          "3bfab335-3890-4781-9a32-bb03ba37ee91"
+        ],
+        "lastmodified": [
+          "2017-01-06T09:39:10.079Z"
+        ],
+        "question": [
+          "Mag ik permanent in een recreatiewoning wonen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/gevaarlijke-stoffen/vraag-en-antwoord/wat-is-reach"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/438c05fa-1fdd-4b65-b93a-e6fe46f57eec"
+        ],
+        "id": [
+          "438c05fa-1fdd-4b65-b93a-e6fe46f57eec"
+        ],
+        "lastmodified": [
+          "2016-07-29T14:31:04.627Z"
+        ],
+        "question": [
+          "Wat is REACH?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bijstand-voor-zelfstandigen-bbz/vraag-en-antwoord/kan-ik-gebruikmaken-van-het-bbz-als-ik-al-langere-tijd-een-eigen-bedrijf-heb"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/4cf470fb-1e11-4391-ae37-bae6260dbc94"
+        ],
+        "id": [
+          "4cf470fb-1e11-4391-ae37-bae6260dbc94"
+        ],
+        "lastmodified": [
+          "2017-01-02T09:42:36.379Z"
+        ],
+        "question": [
+          "Kan ik gebruikmaken van bijstand als ik al langere tijd een eigen bedrijf heb?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/voeding/vraag-en-antwoord/waar-kan-ik-terecht-met-vragen-of-klachten-over-voeding"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/bd817b0e-aa9c-4fa2-b535-e22f6749bd10"
+        ],
+        "id": [
+          "bd817b0e-aa9c-4fa2-b535-e22f6749bd10"
+        ],
+        "lastmodified": [
+          "2016-11-22T10:57:52.253Z"
+        ],
+        "question": [
+          "Waar kan ik terecht met vragen of klachten over voeding?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/jeugdhulp/vraag-en-antwoord/wat-is-het-digitaal-dossier-jeugdgezondheidszorg"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b900afbf-e319-4cf4-a2b4-5e740e3d15c7"
+        ],
+        "id": [
+          "b900afbf-e319-4cf4-a2b4-5e740e3d15c7"
+        ],
+        "lastmodified": [
+          "2017-04-18T10:12:24.652Z"
+        ],
+        "question": [
+          "Wat is het Digitaal Dossier Jeugdgezondheidszorg?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/koninklijk-huis/vraag-en-antwoord/hoe-kom-ik-aan-een-foto-van-leden-van-het-koninklijk-huis"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/24ace554-b59d-406f-9d05-41ed7de163c3"
+        ],
+        "id": [
+          "24ace554-b59d-406f-9d05-41ed7de163c3"
+        ],
+        "lastmodified": [
+          "2017-04-04T11:19:29.917Z"
+        ],
+        "question": [
+          "Hoe kom ik aan een foto van leden van het Koninklijk Huis?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/koninklijk-huis/vraag-en-antwoord/hoe-heten-de-kinderen-van-koning-willem-alexander-en-koningin-maxima"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/60ec2e61-22a9-411d-83ea-703325415058"
+        ],
+        "id": [
+          "60ec2e61-22a9-411d-83ea-703325415058"
+        ],
+        "lastmodified": [
+          "2016-04-29T08:00:47.908Z"
+        ],
+        "question": [
+          "Hoe heten de kinderen van koning Willem-Alexander en koningin Máxima?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/straling/vraag-en-antwoord/hoe-kan-ik-mezelf-beschermen-bij-een-kernongeval"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b6bb0429-5716-4f3c-a209-b32daf1b2139"
+        ],
+        "id": [
+          "b6bb0429-5716-4f3c-a209-b32daf1b2139"
+        ],
+        "lastmodified": [
+          "2017-04-18T07:53:41.758Z"
+        ],
+        "question": [
+          "Hoe kan ik mezelf beschermen bij een kernongeval (kernramp)?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkeersveiligheid/vraag-en-antwoord/mag-ik-bellen-in-de-auto"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/18b9e2bd-4e2c-4f2f-80fd-2928a79781e2"
+        ],
+        "id": [
+          "18b9e2bd-4e2c-4f2f-80fd-2928a79781e2"
+        ],
+        "lastmodified": [
+          "2017-05-01T13:58:10.484Z"
+        ],
+        "question": [
+          "Mag ik bellen in de auto?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkeersveiligheid/vraag-en-antwoord/wanneer-is-het-gebruik-van-zwaailichten-en-sirenes-toegestaan"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b69a79ca-f08e-4caf-9585-a75f62fef9c8"
+        ],
+        "id": [
+          "b69a79ca-f08e-4caf-9585-a75f62fef9c8"
+        ],
+        "lastmodified": [
+          "2015-06-25T12:16:37.832Z"
+        ],
+        "question": [
+          "Mag ik een zwaailicht of een sirene gebruiken op mijn auto?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/straling/vraag-en-antwoord/hoe-is-nederland-voorbereid-op-een-kernongeval"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/4aeb3705-0688-4603-b780-57fc0f2a1bac"
+        ],
+        "id": [
+          "4aeb3705-0688-4603-b780-57fc0f2a1bac"
+        ],
+        "lastmodified": [
+          "2017-05-08T12:10:37.564Z"
+        ],
+        "question": [
+          "Hoe is Nederland voorbereid op een kernongeval?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/vaccinaties/vraag-en-antwoord/wat-kan-ik-doen-als-mijn-kind-last-heeft-van-bijwerkingen-na-vaccinatie"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/8047bf47-bad6-4878-a6fd-9edaa3553fe7"
+        ],
+        "id": [
+          "8047bf47-bad6-4878-a6fd-9edaa3553fe7"
+        ],
+        "lastmodified": [
+          "2017-04-05T12:12:36.081Z"
+        ],
+        "question": [
+          "Wat kan ik doen als mijn kind last heeft van bijwerkingen na vaccinatie?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/apk/vraag-en-antwoord/hoe-vaak-moet-ik-mijn-auto-apk-laten-keuren"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/ce007d7c-760e-4131-a054-756724b520a7"
+        ],
+        "id": [
+          "ce007d7c-760e-4131-a054-756724b520a7"
+        ],
+        "lastmodified": [
+          "2017-01-05T12:04:23.498Z"
+        ],
+        "question": [
+          "Hoe vaak moet ik mijn auto apk laten keuren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/persoonsgegevens/vraag-en-antwoord/wat-is-de-registratie-niet-ingezetenen-rni"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/66d2edc7-d91f-4977-9264-7352a3a9f053"
+        ],
+        "id": [
+          "66d2edc7-d91f-4977-9264-7352a3a9f053"
+        ],
+        "lastmodified": [
+          "2016-08-17T11:48:08.150Z"
+        ],
+        "question": [
+          "Waar kan ik mij laten registreren als niet-ingezetene in de BRP (ook wel bekend als RNI)?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/overheidspersoneel/vraag-en-antwoord/wat-zijn-de-arbeidsvoorwaarden-bij-de-overheid"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/4e9064a8-8a08-46bb-bc9d-9cc8c6e00fec"
+        ],
+        "id": [
+          "4e9064a8-8a08-46bb-bc9d-9cc8c6e00fec"
+        ],
+        "lastmodified": [
+          "2017-02-13T10:57:27.352Z"
+        ],
+        "question": [
+          "Waar vind ik de arbeidsvoorwaarden bij de overheid?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/inkomstenbelasting/vraag-en-antwoord/wat-is-een-heffingskorting-en-welke-heffingskortingen-zijn-er"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/880b3e93-198f-446a-b583-3c5d2e5d22ac"
+        ],
+        "id": [
+          "880b3e93-198f-446a-b583-3c5d2e5d22ac"
+        ],
+        "lastmodified": [
+          "2017-02-07T14:49:47.523Z"
+        ],
+        "question": [
+          "Wat is een heffingskorting en welke heffingskortingen zijn er?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/documenten/vragen-en-antwoorden/zijn-netnummers-regiogebonden"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/6a9714b4-6ed0-4667-b9ec-e402c8645076"
+        ],
+        "id": [
+          "6a9714b4-6ed0-4667-b9ec-e402c8645076"
+        ],
+        "lastmodified": [
+          "2017-04-04T12:34:52.224Z"
+        ],
+        "question": [
+          "Zijn netnummers regiogebonden?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/prinsjesdag/vraag-en-antwoord/hoe-wordt-de-rijksbegroting-vastgesteld"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/4c6d3a9b-ea84-455f-9515-6a9d55957408"
+        ],
+        "id": [
+          "4c6d3a9b-ea84-455f-9515-6a9d55957408"
+        ],
+        "lastmodified": [
+          "2017-04-20T14:09:20.352Z"
+        ],
+        "question": [
+          "Hoe wordt de Rijksbegroting vastgesteld?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/persoonsgegevens/vraag-en-antwoord/hoe-kom-ik-aan-een-burgerservicenummer-bsn"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/3b9f72ed-010f-4ca4-9617-57f84beccd9e"
+        ],
+        "id": [
+          "3b9f72ed-010f-4ca4-9617-57f84beccd9e"
+        ],
+        "lastmodified": [
+          "2017-02-21T15:02:22.194Z"
+        ],
+        "question": [
+          "Hoe kom ik aan een burgerservicenummer (BSN)?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/persoonsgegevens/vraag-en-antwoord/wat-is-het-burgerservicenummer-bsn"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/6a3d9c60-fc49-4e5e-b0d4-f71b0cb47a62"
+        ],
+        "id": [
+          "6a3d9c60-fc49-4e5e-b0d4-f71b0cb47a62"
+        ],
+        "lastmodified": [
+          "2017-02-27T14:56:04.596Z"
+        ],
+        "question": [
+          "Wat is het burgerservicenummer (BSN)?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/hoger-onderwijs/vraag-en-antwoord/wanneer-ontvang-ik-een-diploma-of-getuigschrift"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/f31aaf15-8020-4104-b94c-a2e7690143ee"
+        ],
+        "id": [
+          "f31aaf15-8020-4104-b94c-a2e7690143ee"
+        ],
+        "lastmodified": [
+          "2017-04-07T15:08:55.412Z"
+        ],
+        "question": [
+          "Wanneer ontvang ik een diploma of getuigschrift?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/voortgezet-onderwijs/vraag-en-antwoord/kan-ik-mijn-diploma-of-cijferlijst-vervangen-bij-verlies-naamswijziging-of-geslachtsverandering"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/9195cf01-06d1-48db-8501-e3164c21a4f8"
+        ],
+        "id": [
+          "9195cf01-06d1-48db-8501-e3164c21a4f8"
+        ],
+        "lastmodified": [
+          "2017-04-07T14:52:55.006Z"
+        ],
+        "question": [
+          "Kan ik mijn diploma of cijferlijst vervangen bij verlies, naamswijziging of geslachtsverandering?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/auto/vraag-en-antwoord/hoe-weet-ik-of-een-auto-of-ander-voertuig-gestolen-is"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/a1460646-dc0e-484e-920c-ee97bcd77a7a"
+        ],
+        "id": [
+          "a1460646-dc0e-484e-920c-ee97bcd77a7a"
+        ],
+        "lastmodified": [
+          "2017-02-06T14:25:19.485Z"
+        ],
+        "question": [
+          "Hoe weet ik of een auto of ander voertuig gestolen is?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkeersveiligheid/vraag-en-antwoord/mag-ik-folie-of-coating-aanbrengen-op-mijn-autoruiten"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/84362401-f0bb-411b-ba8b-6a5962f650bf"
+        ],
+        "id": [
+          "84362401-f0bb-411b-ba8b-6a5962f650bf"
+        ],
+        "lastmodified": [
+          "2017-05-04T10:58:10.116Z"
+        ],
+        "question": [
+          "Mag ik folie of coating aanbrengen op mijn autoruiten?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/identiteitsfraude/vraag-en-antwoord/ben-ik-verplicht-om-een-kopie-van-mijn-identiteitsbewijs-te-geven-aan-een-bedrijf"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/7c3f33fd-1fea-4a45-9c92-d1fdafac0e45"
+        ],
+        "id": [
+          "7c3f33fd-1fea-4a45-9c92-d1fdafac0e45"
+        ],
+        "lastmodified": [
+          "2017-02-28T13:27:44.926Z"
+        ],
+        "question": [
+          "Welke organisaties mogen een kopie van mijn identiteitsbewijs maken?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkeersveiligheid/vraag-en-antwoord/wanneer-moet-ik-mijn-autoverlichting-gebruiken"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/47d35381-4872-466a-8dbd-3f43dc9a9681"
+        ],
+        "id": [
+          "47d35381-4872-466a-8dbd-3f43dc9a9681"
+        ],
+        "lastmodified": [
+          "2017-01-30T12:44:01.976Z"
+        ],
+        "question": [
+          "Wanneer moet ik mijn autoverlichting gebruiken?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/telecommunicatie/vraag-en-antwoord/wie-is-verantwoordelijk-voor-de-verdeling-van-de-radiofrequenties"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/9609837e-a331-4ba4-a90c-e097b595a9b5"
+        ],
+        "id": [
+          "9609837e-a331-4ba4-a90c-e097b595a9b5"
+        ],
+        "lastmodified": [
+          "2017-04-04T12:44:41.158Z"
+        ],
+        "question": [
+          "Wie is verantwoordelijk voor de verdeling van de radiofrequenties?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/orgaandonatie-en-weefseldonatie/vraag-en-antwoord/hoe-stel-ik-mijn-lichaam-na-overlijden-ter-beschikking-van-de-wetenschap"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/35df0a6f-16dd-4540-93ad-f6792e4b0508"
+        ],
+        "id": [
+          "35df0a6f-16dd-4540-93ad-f6792e4b0508"
+        ],
+        "lastmodified": [
+          "2016-12-19T09:23:06.302Z"
+        ],
+        "question": [
+          "Hoe stel ik mijn lichaam na overlijden ter beschikking van de wetenschap?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/afval/vraag-en-antwoord/welk-afval-mag-ik-door-de-wc-of-gootsteen-spoelen"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/1ea9c2c3-da0f-4542-959a-c544d2ed64b7"
+        ],
+        "id": [
+          "1ea9c2c3-da0f-4542-959a-c544d2ed64b7"
+        ],
+        "lastmodified": [
+          "2017-05-12T08:59:55.844Z"
+        ],
+        "question": [
+          "Welk afval mag ik door de wc of gootsteen spoelen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/welke-regels-gelden-er-bij-het-laten-zetten-van-een-piercing-of-tatoeage"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/d6c33756-f4e0-4fe5-a7af-a93b88d2e1b2"
+        ],
+        "id": [
+          "d6c33756-f4e0-4fe5-a7af-a93b88d2e1b2"
+        ],
+        "lastmodified": [
+          "2017-03-08T09:12:41.393Z"
+        ],
+        "question": [
+          "Wat zijn de regels als ik een piercing of tatoeage wil aanbrengen?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/verkeersveiligheid/vraag-en-antwoord/moet-ik-een-gevarendriehoek-in-mijn-auto-hebben"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/f5d2d97d-29fc-465d-a5c6-6739fd227b25"
+        ],
+        "id": [
+          "f5d2d97d-29fc-465d-a5c6-6739fd227b25"
+        ],
+        "lastmodified": [
+          "2017-05-04T10:34:24.663Z"
+        ],
+        "question": [
+          "Moet ik een gevarendriehoek in mijn auto hebben?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      }
+    ]
+  }
+}

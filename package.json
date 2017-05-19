@@ -4,6 +4,7 @@
   "private": true,
   "description": "Example serverless chatbot.",
   "dependencies": {
+    "request": "2.81.0",
     "xml2js": "0.4.17"
   }
 }

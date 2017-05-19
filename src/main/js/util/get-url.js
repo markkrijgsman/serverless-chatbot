@@ -1,8 +1,8 @@
 var request = require("request");
 
-function main() {
+function main(params) {
 
-    const URL = "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq?rows=3000";
+    const URL = params.url[0];
 
     return new Promise(function(resolve, reject) {
         request.get(URL, function(error, response, body) {

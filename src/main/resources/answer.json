@@ -1,0 +1,79 @@
+{
+  "document": {
+    "authorities": [
+      {
+        "department": [
+          "Ministerie van Financiën"
+        ]
+      }
+    ],
+    "canonical": [
+      "https://www.rijksoverheid.nl/onderwerpen/inkomstenbelasting/vraag-en-antwoord/hoe-lang-moet-ik-mijn-financiele-administratie-bewaren"
+    ],
+    "content": [
+      {
+        "contentblock": [
+          {
+            "paragraph": [
+              "<p>Bedrijven en zelfstandigen moeten hun <a href=\"https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/ondernemen/administratie/administratie_opzetten/hoe_lang_moet_u_uw_administratie_bewaren\">administratie 7 jaar bewaren</a>. Dit is wettelijk geregeld. Er zijn ook gegevens die een bedrijf 10 jaar moet bewaren. Op de website van de Belastingdienst staat <a href=\"http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/administratie_bijhouden/administratie_bewaren/\">welke administratieve gegevens u moet bewaren en hoe lang</a>.</p>"
+            ],
+            "paragraphtitle": [
+              "Bewaarplicht financiële gegevens van bedrijven"
+            ]
+          }
+        ]
+      }
+    ],
+    "dataurl": [
+      "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b98b7797-7d40-43a7-bc6d-bf7f96d31dd0"
+    ],
+    "id": [
+      "b98b7797-7d40-43a7-bc6d-bf7f96d31dd0"
+    ],
+    "introduction": [
+      "<p>Particulieren zijn niet wettelijk verplicht hun administratieve gegevens (zoals bankafschriften en loonstrookjes) te bewaren. Maar de Belastingdienst mag tot 5 jaar terug belasting navorderen. Daarom is het verstandig om uw administratie in ieder geval 5 jaar te bewaren.</p>"
+    ],
+    "language": [
+      "nl-NL"
+    ],
+    "lastmodified": [
+      "2017-04-20T13:58:32.353Z"
+    ],
+    "license": [
+      "CC0 1.0 Universal"
+    ],
+    "location": [
+      "Nederland"
+    ],
+    "question": [
+      "Hoe lang moet ik mijn financiële administratie bewaren?"
+    ],
+    "rightsholders": [
+      {
+        "department": [
+          "Ministerie van Algemene Zaken"
+        ]
+      }
+    ],
+    "subjects": [
+      {
+        "subject": [
+          "Inkomstenbelasting",
+          "Zelfstandigen zonder personeel (zzp)"
+        ]
+      }
+    ],
+    "themes": [
+      {
+        "theme": [
+          "Werk en loopbaan",
+          "Belastingen",
+          "Economie en ondernemen"
+        ]
+      }
+    ],
+    "type": [
+      "vraag en antwoord"
+    ]
+  }
+}

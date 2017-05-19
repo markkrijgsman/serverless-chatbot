@@ -1,0 +1,206 @@
+{
+  "documents": {
+    "document": [
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/inkomstenbelasting/vraag-en-antwoord/hoe-lang-moet-ik-mijn-financiele-administratie-bewaren"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/b98b7797-7d40-43a7-bc6d-bf7f96d31dd0"
+        ],
+        "id": [
+          "b98b7797-7d40-43a7-bc6d-bf7f96d31dd0"
+        ],
+        "lastmodified": [
+          "2017-04-20T13:58:32.353Z"
+        ],
+        "question": [
+          "Hoe lang moet ik mijn financiële administratie bewaren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/belastingen-voor-ondernemers/vraag-en-antwoord/wat-is-een-belastingverdrag"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/a59a7ef3-8c7c-4d38-9a6a-142a9fca6eec"
+        ],
+        "id": [
+          "a59a7ef3-8c7c-4d38-9a6a-142a9fca6eec"
+        ],
+        "lastmodified": [
+          "2017-01-03T08:58:32.982Z"
+        ],
+        "question": [
+          "Wat is een belastingverdrag?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/overheidsfinancien/vraag-en-antwoord/wat-is-de-najaarsnota"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/c9877d1a-0e3c-4c46-b35b-b2275a3891a9"
+        ],
+        "id": [
+          "c9877d1a-0e3c-4c46-b35b-b2275a3891a9"
+        ],
+        "lastmodified": [
+          "2017-04-20T14:08:39.042Z"
+        ],
+        "question": [
+          "Wat is de Najaarsnota?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/overheidsfinancien/vraag-en-antwoord/wat-is-de-voorjaarsnota"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/767681a2-833a-4d5c-abee-5109ac53dea4"
+        ],
+        "id": [
+          "767681a2-833a-4d5c-abee-5109ac53dea4"
+        ],
+        "lastmodified": [
+          "2017-01-11T12:51:22.857Z"
+        ],
+        "question": [
+          "Wat is de Voorjaarsnota?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/paspoort-en-identiteitskaart/vraag-en-antwoord/is-mijn-beschadigde-paspoort-of-identiteitskaart-geldig"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/193accef-6ff6-4a05-a89c-b6ff37389745"
+        ],
+        "id": [
+          "193accef-6ff6-4a05-a89c-b6ff37389745"
+        ],
+        "lastmodified": [
+          "2017-04-05T12:45:21.794Z"
+        ],
+        "question": [
+          "Is mijn beschadigde paspoort of identiteitskaart geldig?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/bescherming-van-consumenten/vraag-en-antwoord/moet-een-bank-een-kopie-van-mijn-paspoort-maken-en-bewaren"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/913baae5-4e13-4270-bab2-d8035a15f032"
+        ],
+        "id": [
+          "913baae5-4e13-4270-bab2-d8035a15f032"
+        ],
+        "lastmodified": [
+          "2017-03-07T14:26:09.766Z"
+        ],
+        "question": [
+          "Moet een bank een kopie van mijn paspoort maken en bewaren?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/geldzaken/vraag-en-antwoord/waarom-is-de-euro-ingevoerd"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/1c255df3-9d57-4d26-a4d9-7637b54d47e6"
+        ],
+        "id": [
+          "1c255df3-9d57-4d26-a4d9-7637b54d47e6"
+        ],
+        "lastmodified": [
+          "2017-04-20T14:07:59.297Z"
+        ],
+        "question": [
+          "Waarom is de euro ingevoerd?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/inkomstenbelasting/vraag-en-antwoord/wat-is-de-voorlopige-aanslag-van-de-belastingdienst"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/54ef2e05-af48-405f-9f4d-ba207bf0d856"
+        ],
+        "id": [
+          "54ef2e05-af48-405f-9f4d-ba207bf0d856"
+        ],
+        "lastmodified": [
+          "2016-12-12T15:40:08.795Z"
+        ],
+        "question": [
+          "Wat is de voorlopige aanslag van de Belastingdienst?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/re-integratie/vraag-en-antwoord/kan-ik-als-zieke-of-arbeidsongeschikte-hulp-krijgen-als-ik-een-eigen-bedrijf-begin"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/42eba523-f64f-44b6-bc50-dbaac27e31f8"
+        ],
+        "id": [
+          "42eba523-f64f-44b6-bc50-dbaac27e31f8"
+        ],
+        "lastmodified": [
+          "2016-05-19T08:21:54.332Z"
+        ],
+        "question": [
+          "Kan ik als zieke of arbeidsongeschikte hulp krijgen van het UWV als ik een eigen bedrijf begin?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      },
+      {
+        "canonical": [
+          "https://www.rijksoverheid.nl/onderwerpen/re-integratie/vraag-en-antwoord/wat-als-mijn-werkgever-en-ik-het-niet-eens-zijn-over-mijn-ziekte-of-re-integratie"
+        ],
+        "dataurl": [
+          "https://opendata.rijksoverheid.nl/v1/sources/rijksoverheid/infotypes/faq/e7a40aa7-5b69-42eb-a686-7e89fc086e1d"
+        ],
+        "id": [
+          "e7a40aa7-5b69-42eb-a686-7e89fc086e1d"
+        ],
+        "lastmodified": [
+          "2015-11-06T08:45:14.960Z"
+        ],
+        "question": [
+          "Wat als mijn werkgever en ik het niet eens zijn over mijn ziekte of re-integratie?"
+        ],
+        "type": [
+          "vraag en antwoord"
+        ]
+      }
+    ]
+  }
+}
